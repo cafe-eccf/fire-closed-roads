@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carreteras cortadas por incendios — España</title>
+<style>
+  :root{
+    --bg:#12100e;
+    --panel:#1c1815;
+    --line:#332c26;
+    --ash:#a89f92;
+    --paper:#efe9df;
+    --ember:#ff5a2e;
+    --ember-dim:#8a2f18;
+    --black-level:#2a2622;
+    --mono: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;
+    --serif: 'Fraunces', Georgia, serif;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(ellipse 60% 40% at 50% 0%, rgba(255,90,46,0.08), transparent 60%),
+      var(--bg);
+    color:var(--paper);
+    font-family:var(--mono);
+    line-height:1.5;
+    padding-bottom:4rem;
+  }
+  header{
+    padding:2.5rem 1.5rem 1.5rem;
+    max-width:900px;
+    margin:0 auto;
+    border-bottom:1px solid var(--line);
+  }
+  .eyebrow{
+    font-size:0.72rem;
+    letter-spacing:0.18em;
+    text-transform:uppercase;
+    color:var(--ember);
+    display:flex;
+    align-items:center;
+    gap:0.5rem;
+  }
+  .eyebrow::before{
+    content:"";
+    width:8px;height:8px;border-radius:50%;
+    background:var(--ember);
+    box-shadow:0 0 0 0 rgba(255,90,46,0.6);
+    animation:pulse 2s infinite;
+  }
+  @keyframes pulse{
+    0%{box-shadow:0 0 0 0 rgba(255,90,46,0.5);}
+    70%{box-shadow:0 0 0 8px rgba(255,90,46,0);}
+    100%{box-shadow:0 0 0 0 rgba(255,90,46,0);}
+  }
+  h1{
+    font-family:var(--serif);
+    font-weight:600;
+    font-size:clamp(1.7rem, 4vw, 2.4rem);
+    margin:0.5rem 0 0.25rem;
+    letter-spacing:-0.01em;
+  }
+  .sub{color:var(--ash); font-size:0.9rem; max-width:60ch;}
+  .status-bar{
+    max-width:900px;
+    margin:1rem auto 0;
+    padding:0 1.5rem;
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    flex-wrap:wrap;
+    gap:0.5rem;
+    font-size:0.78rem;
+    color:var(--ash);
+  }
+  .status-bar b{color:var(--paper); font-weight:600;}
+  main{max-width:900px; margin:1.5rem auto 0; padding:0 1.5rem;}
+  .count-strip{
+    display:flex; gap:0.75rem; margin-bottom:1.25rem; flex-wrap:wrap;
+  }
+  .count-chip{
+    border:1px solid var(--line);
+    background:var(--panel);
+    padding:0.5rem 0.9rem;
+    font-size:0.78rem;
+    color:var(--ash);
+  }
+  .count-chip b{color:var(--paper); font-family:var(--serif); font-size:1.1rem; display:block;}
+  .filter-row{
+    display:flex; gap:0.5rem; margin-bottom:1rem; flex-wrap:wrap;
+  }
+  input[type="search"]{
+    flex:1; min-width:200px;
+    background:var(--panel);
+    border:1px solid var(--line);
+    color:var(--paper);
+    padding:0.6rem 0.8rem;
+    font-family:var(--mono);
+    font-size:0.85rem;
+  }
+  input[type="search"]::placeholder{color:#6b6459;}
+  .road{
+    border:1px solid var(--line);
+    border-left:3px solid var(--black-level);
+    background:var(--panel);
+    margin-bottom:0.6rem;
+    padding:0.9rem 1rem;
+    display:grid;
+    grid-template-columns:auto 1fr auto;
+    gap:0.3rem 1rem;
+    align-items:baseline;
+  }
+  .road[data-nivel="NEGRO"]{border-left-color:#0d0c0b;}
+  .road[data-nivel="ROJO"]{border-left-color:#8a1f12;}
+  .road[data-nivel="AMARILLO"]{border-left-color:#8a6a12;}
+  .road-code{
+    font-family:var(--serif);
+    font-size:1.15rem;
+    font-weight:600;
+    color:var(--paper);
+  }
+  .road-nivel{
+    font-size:0.68rem;
+    letter-spacing:0.1em;
+    padding:0.15rem 0.5rem;
+    border:1px solid var(--line);
+    color:var(--ash);
+    height:fit-content;
+  }
+  .road-zona{
+    grid-column:1 / -1;
+    font-size:0.72rem;
+    color:var(--ember);
+    letter-spacing:0.03em;
+  }
+  .road-loc{
+    grid-column:1 / -1;
+    color:var(--ash);
+    font-size:0.85rem;
+  }
+  .road-meta{
+    grid-column:1 / -1;
+    font-size:0.72rem;
+    color:#6b6459;
+    display:flex; gap:1rem; flex-wrap:wrap;
+  }
+  .empty, .error{
+    color:var(--ash);
+    font-size:0.85rem;
+    padding:2rem 0;
+    text-align:center;
+  }
+  .error{color:var(--ember);}
+  footer{
+    max-width:900px; margin:2rem auto 0; padding:0 1.5rem;
+    font-size:0.72rem; color:#6b6459;
+  }
+  footer a{color:var(--ash);}
+  @media (prefers-reduced-motion: reduce){
+    .eyebrow::before{animation:none;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Actualización automática · cada hora</div>
+  <h1>Carreteras cortadas por incendios</h1>
+  <p class="sub">Datos extraídos automáticamente del parte oficial de la DGT. Esta página no es un canal oficial — ante cualquier duda, consulta el 011 o el <a href="http://nap.dgt.es" style="color:var(--ash)">Mapa de Tráfico DGT</a>.</p>
+</header>
+
+<div class="status-bar">
+  <span>Fuente: <a href="https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf" style="color:var(--ash)">PDF DGT</a></span>
+  <span>Parte generado: <b id="fetched-at">—</b></span>
+</div>
+
+<main>
+  <div class="count-strip" id="count-strip"></div>
+  <div class="filter-row">
+    <input type="search" id="search" placeholder="Filtrar por carretera, provincia o localización…">
+  </div>
+  <div id="list"><div class="empty">Cargando datos…</div></div>
+</main>
+
+<footer>
+  Generado por un scraper que descarga el PDF de la DGT cada hora vía GitHub Actions y publica esta página vía GitHub Pages.
+  <span id="next-refresh"></span>
+</footer>
+
+<script>
+const DATA_URL = 'data/carreteras.json';
+const REFRESH_MS = 60 * 60 * 1000; // re-check the JSON hourly, in case the page stays open
+let allRoads = [];
+
+function fmtDate(iso){
+  try{
+    const d = new Date(iso);
+    return d.toLocaleString('es-ES', { dateStyle:'medium', timeStyle:'short' });
+  }catch(e){ return iso; }
+}
+
+function render(roads){
+  const list = document.getElementById('list');
+  if(!roads.length){
+    list.innerHTML = '<div class="empty">No hay carreteras cortadas por incendio en el parte actual.</div>';
+    return;
+  }
+  list.innerHTML = roads.map(r => `
+    <div class="road" data-nivel="${r.nivel || ''}">
+      <span class="road-code">${r.carretera || '—'}</span>
+      <span></span>
+      <span class="road-nivel">${r.nivel || ''}</span>
+      <span class="road-zona">${r.zona || ''}</span>
+      <span class="road-loc">${r.localizacion || ''}</span>
+      <span class="road-meta">
+        <span>Sentido: ${r.sentido || '—'}</span>
+        <span>PK ${r.pk_ini ?? '—'} → ${r.pk_fin ?? '—'}</span>
+      </span>
+    </div>
+  `).join('');
+}
+
+function renderCounts(roads){
+  const byNivel = {};
+  roads.forEach(r => { byNivel[r.nivel] = (byNivel[r.nivel]||0) + 1; });
+  const strip = document.getElementById('count-strip');
+  const chips = [`<div class="count-chip"><b>${roads.length}</b>total cortes</div>`];
+  Object.entries(byNivel).forEach(([nivel, n]) => {
+    chips.push(`<div class="count-chip"><b>${n}</b>${nivel.toLowerCase()}</div>`);
+  });
+  strip.innerHTML = chips.join('');
+}
+
+async function load(){
+  try{
+    const res = await fetch(DATA_URL + '?t=' + Date.now());
+    if(!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    allRoads = data.roads || [];
+    document.getElementById('fetched-at').textContent = fmtDate(data.fetched_at);
+    renderCounts(allRoads);
+    render(allRoads);
+  }catch(e){
+    document.getElementById('list').innerHTML =
+      `<div class="error">No se pudo cargar el parte (${e.message}). Reintentando…</div>`;
+  }
+}
+
+document.getElementById('search').addEventListener('input', (e) => {
+  const q = e.target.value.trim().toLowerCase();
+  const filtered = !q ? allRoads : allRoads.filter(r =>
+    (r.carretera||'').toLowerCase().includes(q) ||
+    (r.zona||'').toLowerCase().includes(q) ||
+    (r.localizacion||'').toLowerCase().includes(q)
+  );
+  render(filtered);
+});
+
+load();
+setInterval(load, REFRESH_MS);
+
+// friendly ticking "next refresh" note
+let secondsLeft = REFRESH_MS / 1000;
+setInterval(() => {
+  secondsLeft = Math.max(0, secondsLeft - 1);
+  const m = Math.floor(secondsLeft / 60);
+  document.getElementById('next-refresh').textContent = ` Próxima comprobación en ${m} min.`;
+  if(secondsLeft === 0) secondsLeft = REFRESH_MS / 1000;
+}, 1000);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
+  "fetched_at": "2026-07-23T23:45:00+00:00",
+  "count": 5,
+  "roads": [
+    {"zona": "Andalucía Huelva", "carretera": "A-475", "pk_ini": "11.8", "pk_fin": "22.4", "sentido": "AMBOS SENTIDOS", "localizacion": "Villanueva de las Cruces - Tharsis", "nivel": "NEGRO"},
+    {"zona": "Aragón Teruel", "carretera": "TE-54", "pk_ini": "0.0", "pk_fin": "4.0", "sentido": "AMBOS SENTIDOS", "localizacion": "La Cañada de Verich - La Cerollera", "nivel": "NEGRO"},
+    {"zona": "Castilla - La Mancha Guadalajara", "carretera": "GU-144", "pk_ini": "0.0", "pk_fin": "2.9", "sentido": "CRECIENTE DE LA KILOMETRACIÓN", "localizacion": "Arbancón - Monasterio", "nivel": "NEGRO"},
+    {"zona": "Madrid, Comunidad de Madrid", "carretera": "M-206", "pk_ini": "0.0", "pk_fin": "6.0", "sentido": "CRECIENTE DE LA KILOMETRACIÓN", "localizacion": "Loeches - Soto de Aldovea", "nivel": "NEGRO"},
+    {"zona": "Madrid, Comunidad de Madrid", "carretera": "N-403", "pk_ini": "80.3", "pk_fin": "80.3", "sentido": "AMBOS SENTIDOS", "localizacion": "San Martín de Valdeiglesias", "nivel": "NEGRO"}
+  ],
+  "unparsed_lines": []
+}
