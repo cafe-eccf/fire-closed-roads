@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-24T22:19:35.746597+00:00",
+  "fetched_at": "2026-07-24T22:31:19.632631+00:00",
   "count": 32,
   "roads": [
     {
@@ -89,7 +89,7 @@
       "carretera": "GU-144",
       "pk_ini": "0.0",
       "pk_fin": "2.9",
-      "sentido": null,
+      "sentido": "DESCONOCIDO",
       "localizacion": "Arbancón - Monasterio",
       "nivel": "NEGRO"
     },
@@ -116,7 +116,7 @@
       "carretera": "GU-151",
       "pk_ini": "0.0",
       "pk_fin": "12.9",
-      "sentido": null,
+      "sentido": "DESCONOCIDO",
       "localizacion": "Aldeanueva de Atienza - Arroyo de las Fraguas",
       "nivel": "NEGRO"
     },
@@ -152,7 +152,7 @@
       "carretera": "AV-502",
       "pk_ini": "0.0",
       "pk_fin": "19.34",
-      "sentido": null,
+      "sentido": "DESCONOCIDO",
       "localizacion": "Navalperal de Pinares - Cebreros",
       "nivel": "NO APLICA"
     },
@@ -170,7 +170,7 @@
       "carretera": "AV-503",
       "pk_ini": "25.5",
       "pk_fin": "39.06",
-      "sentido": null,
+      "sentido": "DESCONOCIDO",
       "localizacion": "San Bartolomé de Pinares - Cebreros",
       "nivel": "NO APLICA"
     },
@@ -179,7 +179,7 @@
       "carretera": "AV-504",
       "pk_ini": "0.1",
       "pk_fin": "6.44",
-      "sentido": null,
+      "sentido": "DESCONOCIDO",
       "localizacion": "Cebreros - Poblado de Burguillo",
       "nivel": "NEGRO"
     },
@@ -188,7 +188,7 @@
       "carretera": "AV-512",
       "pk_ini": "0.1",
       "pk_fin": "6.62",
-      "sentido": null,
+      "sentido": "DESCONOCIDO",
       "localizacion": "Cebreros - El Tiemblo",
       "nivel": "NEGRO"
     },
@@ -197,7 +197,7 @@
       "carretera": "AV-562",
       "pk_ini": "0.1",
       "pk_fin": "14.12",
-      "sentido": null,
+      "sentido": "DESCONOCIDO",
       "localizacion": "Cebreros - El Quexigal",
       "nivel": "NEGRO"
     },
@@ -215,7 +215,7 @@
       "carretera": "AV-902",
       "pk_ini": "6.0",
       "pk_fin": "0.0",
-      "sentido": null,
+      "sentido": "DESCONOCIDO",
       "localizacion": "El Quejigo - Burgohondo",
       "nivel": "NEGRO"
     },
@@ -260,7 +260,7 @@
       "carretera": "M-510",
       "pk_ini": "20.0",
       "pk_fin": "20.0",
-      "sentido": null,
+      "sentido": "DESCONOCIDO",
       "localizacion": "Valdemorillo NAVALAGAMELLA",
       "nivel": "NEGRO"
     },
@@ -278,7 +278,7 @@
       "carretera": "M-533",
       "pk_ini": "0.0",
       "pk_fin": "0.0",
-      "sentido": null,
+      "sentido": "DESCONOCIDO",
       "localizacion": "El Alcor M-600 ZARZALEJO",
       "nivel": "NEGRO"
     },
