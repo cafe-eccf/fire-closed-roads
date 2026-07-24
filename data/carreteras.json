@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-24T22:55:36.206633+00:00",
+  "fetched_at": "2026-07-24T23:04:47.420861+00:00",
   "count": 32,
   "roads": [
     {
@@ -8,8 +8,8 @@
       "carretera": "A-475",
       "pk_ini": "11.8",
       "pk_fin": "22.4",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Villanueva de las Cruces - Tharsis AMBOS SENTIDOS",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Villanueva de las Cruces - Tharsis AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
@@ -90,7 +90,7 @@
       "pk_ini": "0.0",
       "pk_fin": "2.9",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Arbancón - Monasterio",
+      "localizacion": "CRECIENTE DE LA Arbancón - Monasterio",
       "nivel": "NEGRO"
     },
     {
@@ -98,8 +98,8 @@
       "carretera": "GU-145",
       "pk_ini": "0.0",
       "pk_fin": "18.25",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Ujados - Bochones",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Ujados - Bochones",
       "nivel": "NEGRO"
     },
     {
@@ -117,7 +117,7 @@
       "pk_ini": "0.0",
       "pk_fin": "12.9",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Aldeanueva de Atienza - Arroyo de las Fraguas",
+      "localizacion": "CRECIENTE DE LA Aldeanueva de Atienza - Arroyo de las Fraguas",
       "nivel": "NEGRO"
     },
     {
@@ -125,8 +125,8 @@
       "carretera": "GU-161",
       "pk_ini": "0.0",
       "pk_fin": "5.3",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Zarzuela de Jadraque",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Zarzuela de Jadraque",
       "nivel": "NEGRO"
     },
     {
@@ -153,7 +153,7 @@
       "pk_ini": "0.0",
       "pk_fin": "19.34",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Navalperal de Pinares - Cebreros",
+      "localizacion": "CRECIENTE DE LA Navalperal de Pinares - Cebreros",
       "nivel": "NO APLICA"
     },
     {
@@ -161,8 +161,8 @@
       "carretera": "AV-502",
       "pk_ini": "19.81",
       "pk_fin": "31.48",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Cebreros - La Atalaya",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Cebreros - La Atalaya",
       "nivel": "NEGRO"
     },
     {
@@ -171,7 +171,7 @@
       "pk_ini": "25.5",
       "pk_fin": "39.06",
       "sentido": "DESCONOCIDO",
-      "localizacion": "San Bartolomé de Pinares - Cebreros",
+      "localizacion": "CRECIENTE DE LA San Bartolomé de Pinares - Cebreros",
       "nivel": "NO APLICA"
     },
     {
@@ -180,7 +180,7 @@
       "pk_ini": "0.1",
       "pk_fin": "6.44",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Cebreros - Poblado de Burguillo",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cebreros - Poblado de Burguillo",
       "nivel": "NEGRO"
     },
     {
@@ -189,7 +189,7 @@
       "pk_ini": "0.1",
       "pk_fin": "6.62",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Cebreros - El Tiemblo",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cebreros - El Tiemblo",
       "nivel": "NEGRO"
     },
     {
@@ -198,7 +198,7 @@
       "pk_ini": "0.1",
       "pk_fin": "14.12",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Cebreros - El Quexigal",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cebreros - El Quexigal",
       "nivel": "NEGRO"
     },
     {
@@ -206,8 +206,8 @@
       "carretera": "AV-901",
       "pk_ini": "0.1",
       "pk_fin": "9.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Burgohondo - Villanueva de Ávila",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Burgohondo - Villanueva de Ávila",
       "nivel": "NEGRO"
     },
     {
@@ -216,7 +216,7 @@
       "pk_ini": "6.0",
       "pk_fin": "0.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "El Quejigo - Burgohondo",
+      "localizacion": "DECRECIENTE DE El Quejigo - Burgohondo",
       "nivel": "NEGRO"
     },
     {
@@ -224,8 +224,8 @@
       "carretera": "M-507",
       "pk_ini": "28.0",
       "pk_fin": "36.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Villa del Prado - Parque Romillo",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Parque Romillo",
       "nivel": "NEGRO"
     },
     {
@@ -233,8 +233,8 @@
       "carretera": "M-540",
       "pk_ini": "1.0",
       "pk_fin": "6.8",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Villa del Prado - Cruz Verde",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
       "nivel": "NEGRO"
     },
     {
@@ -242,8 +242,8 @@
       "carretera": "N-403",
       "pk_ini": "80.0",
       "pk_fin": "100.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "San Martín de Valdeiglesias - Las Cruceras",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS San Martín de Valdeiglesias - Las Cruceras",
       "nivel": "NEGRO"
     },
     {
@@ -251,8 +251,8 @@
       "carretera": "M-501",
       "pk_ini": "34.0",
       "pk_fin": "60.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castilla y León Colmenar del Arroyo - San Martín de AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
@@ -261,7 +261,7 @@
       "pk_ini": "20.0",
       "pk_fin": "20.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Valdemorillo NAVALAGAMELLA",
+      "localizacion": "Valdeiglesias CRECIENTE DE LA Valdemorillo NAVALAGAMELLA",
       "nivel": "NEGRO"
     },
     {
@@ -269,8 +269,8 @@
       "carretera": "M-512",
       "pk_ini": "0.0",
       "pk_fin": "22.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Robledondo - Navas del Rey",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Robledondo - Navas del Rey",
       "nivel": "NEGRO"
     },
     {
@@ -279,7 +279,7 @@
       "pk_ini": "0.0",
       "pk_fin": "0.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "El Alcor M-600 ZARZALEJO",
+      "localizacion": "CRECIENTE DE LA El Alcor M-600 ZARZALEJO",
       "nivel": "NEGRO"
     },
     {
@@ -287,13 +287,10 @@
       "carretera": "M-541",
       "pk_ini": "0.0",
       "pk_fin": "6.54",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN Pelayos de la Presa - San Martín de AMBOS SENTIDOS",
       "nivel": "NEGRO"
     }
   ],
-  "unparsed_lines": [
-    ".",
-    "Madrid, Comunidad de -"
-  ]
+  "unparsed_lines": []
 }
