@@ -15,19 +15,21 @@ from datetime import datetime, timezone
 PDF_URL = "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf"
 OUT_PATH = "data/carreteras.json"
  
-SENTIDOS = [
-    unicodedata.normalize("NFC", s) for s in [
-        "AMBOS SENTIDOS",
-        "CRECIENTE DE LA KILOMETRACIÓN",
-        "DECRECIENTE DE LA KILOMETRACIÓN",
-    ]
+SENTIDO_PATTERNS = [
+    r"AMBOS SENTIDOS",
+    r"CRECIENTE DE LA KILOMETRACI.N",     # '.' tolerates any encoding of the accented O
+    r"DECRECIENTE DE LA KILOMETRACI.N",
 ]
-NIVELES = ["NEGRO", "ROJO", "AMARILLO", "VERDE"]
+NIVELES = ["NEGRO", "ROJO", "AMARILLO", "VERDE", "NO APLICA"]
  
-ROAD_RE = re.compile(r"\b([A-Z]{1,4}-\d+[A-Z]?)\b")
-PK_RE = re.compile(r"\d+(?:\.\d+)?")
-SENTIDO_RE = re.compile("|".join(re.escape(s) for s in SENTIDOS))
-NIVEL_RE = re.compile(r"\b(" + "|".join(NIVELES) + r")\b")
+# A road code is only trusted when directly followed by two mileage numbers —
+# this avoids false positives from road-like text that sometimes appears
+# inside the free-form "HACIA" field (e.g. "El Alcor M-600 ZARZALEJO").
+ROAD_PK_RE = re.compile(
+    r"([A-Z]{1,4}-\d+[A-Z]?)\s+(\d+(?:\.\d+)?)\s+(\d+(?:\.\d+)?)\s+"
+)
+SENTIDO_RE = re.compile("(" + "|".join(SENTIDO_PATTERNS) + ")")
+NIVEL_RE = re.compile(r"\b(" + "|".join(re.escape(n) for n in NIVELES) + r")\b")
  
 # lines to ignore (headers/footers repeated on every PDF page)
 SKIP_PATTERNS = [
@@ -53,14 +55,33 @@ def pdf_to_lines(pdf_path):
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             text = page.extract_text(layout=False) or ""
+            page_lines = []
             for line in text.split("\n"):
                 line = unicodedata.normalize("NFC", line.strip())
                 if not line:
                     continue
                 if any(p in line for p in SKIP_PATTERNS):
                     continue
-                lines.append(line)
+                page_lines.append(line)
+            lines.extend(merge_wrapped_lines(page_lines))
     return lines
+ 
+ 
+def merge_wrapped_lines(lines):
+    """
+    pdfplumber's extract_text() can wrap a long cell value (e.g. 'CRECIENTE
+    DE LA KILOMETRACIÓN') onto its own line when the column is narrow. A
+    genuine new row always contains a road code directly followed by two
+    mileage numbers; any line lacking that pattern is a leftover fragment
+    of the previous row and gets merged back onto it.
+    """
+    merged = []
+    for line in lines:
+        if ROAD_PK_RE.search(line) or not merged:
+            merged.append(line)
+        else:
+            merged[-1] = merged[-1].rstrip() + " " + line.lstrip()
+    return merged
  
  
 def parse_line(line):
@@ -68,33 +89,42 @@ def parse_line(line):
     Rows look like:
     <ZONA (comunidad+provincia)> <CARRETERA> <PK_INI> <PK_FIN> <SENTIDO> <LOCALIZACIÓN [+HACIA]> <NIVEL>
     Zona/localización text is free-form, so we anchor on the tokens we CAN
-    identify reliably: the road code, the PK numbers, the sentido enum,
-    and the nivel enum at the end.
+    identify reliably: NIVEL at the very end, and a road code immediately
+    followed by two mileage numbers (which only ever occurs once per row,
+    right after the zona).
     """
     nivel_m = list(NIVEL_RE.finditer(line))
     if not nivel_m:
         return None
     nivel = nivel_m[-1].group(1)
-    body = line[: nivel_m[-1].start()].strip()
+    line_wo_nivel = line[: nivel_m[-1].start()].rstrip()
  
-    sentido_m = SENTIDO_RE.search(body)
-    if not sentido_m:
+    road_m = ROAD_PK_RE.search(line_wo_nivel)
+    if not road_m:
         return None
-    sentido = sentido_m.group(0)
-    before_sentido = body[: sentido_m.start()].strip()
-    localizacion = body[sentido_m.end():].strip(" -")
- 
-    road_matches = list(ROAD_RE.finditer(before_sentido))
-    if not road_matches:
-        return None
-    road_m = road_matches[-1]
     carretera = road_m.group(1)
-    zona = before_sentido[: road_m.start()].strip()
-    after_road = before_sentido[road_m.end():].strip()
+    pk_ini, pk_fin = road_m.group(2), road_m.group(3)
+    zona = line_wo_nivel[: road_m.start(1)].strip()
+    rest = line_wo_nivel[road_m.end():].strip()
  
-    pk_nums = PK_RE.findall(after_road)
-    pk_ini = pk_nums[0] if len(pk_nums) > 0 else None
-    pk_fin = pk_nums[1] if len(pk_nums) > 1 else None
+    sentido_m = SENTIDO_RE.match(rest)
+    if sentido_m:
+        sentido = sentido_m.group(0)
+        localizacion = rest[sentido_m.end():].strip(" -")
+    else:
+        # Unknown/garbled SENTIDO phrasing: fall back to taking the leading
+        # run of all-caps words as sentido (LOCALIZACIÓN is mixed-case, so
+        # the first word containing a lowercase letter marks the boundary).
+        words = rest.split(" ")
+        upper_words, i = [], 0
+        for w in words:
+            if w and not any(ch.islower() for ch in w):
+                upper_words.append(w)
+                i += 1
+            else:
+                break
+        sentido = " ".join(upper_words) if upper_words else None
+        localizacion = " ".join(words[i:]).strip(" -")
  
     return {
         "zona": zona,
