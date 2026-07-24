@@ -5,29 +5,39 @@ on:
     - cron: '5 * * * *'   # 5 minutes past every hour (UTC)
   workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
 
+
 permissions:
   contents: write
-
+ 
+concurrency:
+  group: update-dgt-data
+  cancel-in-progress: false
+ 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
+ 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
+ 
       - name: Install dependencies
         run: pip install pdfplumber
-
+ 
       - name: Run scraper
         run: python scrape_dgt.py
-
-      - name: Commit updated data
+ 
+      - name: Commit and push updated data
         run: |
           git config user.name "dgt-road-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/carreteras.json
           git diff --quiet --cached || git commit -m "Update road closures $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying..."
+            sleep $((RANDOM % 10 + 1))
+          done
+ 
