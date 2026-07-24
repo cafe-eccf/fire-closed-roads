@@ -14,13 +14,25 @@ from datetime import datetime, timezone
  
 PDF_URL = "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf"
 OUT_PATH = "data/carreteras.json"
- 
-SENTIDO_PATTERNS = [
-    r"AMBOS SENTIDOS",
-    r"CRECIENTE DE LA KILOMETRACI.N",     # '.' tolerates any encoding of the accented O
-    r"DECRECIENTE DE LA KILOMETRACI.N",
+  
+SENTIDO_TARGETS = [
+    "AMBOS SENTIDOS",
+    "CRECIENTE DE LA KILOMETRACIÓN",
+    "DECRECIENTE DE LA KILOMETRACIÓN",
 ]
 NIVELES = ["NEGRO", "ROJO", "AMARILLO", "VERDE", "NO APLICA"]
+ 
+ 
+def fold(s):
+    """Strip whitespace, accents, and case so text can be compared even if
+    a PDF line-wrap inserted/removed a space or mangled an accented char."""
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(ch for ch in s if not unicodedata.combining(ch))
+    return re.sub(r"\s+", "", s).upper()
+ 
+ 
+SENTIDO_FOLDED = {fold(t): t for t in SENTIDO_TARGETS}
+MAX_SENTIDO_WORDS = max(len(t.split()) for t in SENTIDO_TARGETS) + 2  # slack for stray splits
  
 # A road code is only trusted when directly followed by two mileage numbers —
 # this avoids false positives from road-like text that sometimes appears
@@ -28,7 +40,6 @@ NIVELES = ["NEGRO", "ROJO", "AMARILLO", "VERDE", "NO APLICA"]
 ROAD_PK_RE = re.compile(
     r"([A-Z]{1,4}-\d+[A-Z]?)\s+(\d+(?:\.\d+)?)\s+(\d+(?:\.\d+)?)\s+"
 )
-SENTIDO_RE = re.compile("(" + "|".join(SENTIDO_PATTERNS) + ")")
 NIVEL_RE = re.compile(r"\b(" + "|".join(re.escape(n) for n in NIVELES) + r")\b")
  
 # lines to ignore (headers/footers repeated on every PDF page)
@@ -84,6 +95,23 @@ def merge_wrapped_lines(lines):
     return merged
  
  
+def match_sentido(rest):
+    """
+    Find the SENTIDO value at the start of `rest` by trying increasing
+    word-count windows and comparing their folded form against the known
+    phrases. Folding strips all whitespace, so it doesn't matter whether a
+    PDF wrap added a stray space mid-word or split cleanly between words —
+    both fold to the same string as the correctly-formed original.
+    """
+    words = rest.split()
+    for n in range(1, min(MAX_SENTIDO_WORDS, len(words)) + 1):
+        candidate = " ".join(words[:n])
+        folded = fold(candidate)
+        if folded in SENTIDO_FOLDED:
+            return SENTIDO_FOLDED[folded], " ".join(words[n:])
+    return None, rest
+ 
+ 
 def parse_line(line):
     """
     Rows look like:
@@ -107,24 +135,10 @@ def parse_line(line):
     zona = line_wo_nivel[: road_m.start(1)].strip()
     rest = line_wo_nivel[road_m.end():].strip()
  
-    sentido_m = SENTIDO_RE.match(rest)
-    if sentido_m:
-        sentido = sentido_m.group(0)
-        localizacion = rest[sentido_m.end():].strip(" -")
-    else:
-        # Unknown/garbled SENTIDO phrasing: fall back to taking the leading
-        # run of all-caps words as sentido (LOCALIZACIÓN is mixed-case, so
-        # the first word containing a lowercase letter marks the boundary).
-        words = rest.split(" ")
-        upper_words, i = [], 0
-        for w in words:
-            if w and not any(ch.islower() for ch in w):
-                upper_words.append(w)
-                i += 1
-            else:
-                break
-        sentido = " ".join(upper_words) if upper_words else None
-        localizacion = " ".join(words[i:]).strip(" -")
+    sentido, localizacion = match_sentido(rest)
+    localizacion = localizacion.strip(" -")
+    if sentido is None:
+        sentido = "DESCONOCIDO"  # keep the row (a road closure), flag the field instead of guessing
  
     return {
         "zona": zona,
