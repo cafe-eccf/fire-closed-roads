@@ -22,7 +22,7 @@ SENTIDO_TARGETS = [
 ]
 NIVELES = ["NEGRO", "ROJO", "AMARILLO", "VERDE", "NO APLICA"]
  
- 
+
 def fold(s):
     """Strip whitespace, accents, and case so text can be compared even if
     a PDF line-wrap inserted/removed a space or mangled an accented char."""
@@ -83,15 +83,27 @@ def merge_wrapped_lines(lines):
     pdfplumber's extract_text() can wrap a long cell value (e.g. 'CRECIENTE
     DE LA KILOMETRACIÓN') onto its own line when the column is narrow. A
     genuine new row always contains a road code directly followed by two
-    mileage numbers; any line lacking that pattern is a leftover fragment
-    of the previous row and gets merged back onto it.
+    mileage numbers; any line lacking that pattern is a leftover fragment.
+ 
+    Such a fragment usually continues the row just built — but if that row
+    already has its NIVEL token (i.e. it looks "closed"), the fragment more
+    likely belongs to the row that's about to start next (pdfplumber can
+    emit a wrapped fragment slightly out of order). In that case it's held
+    and prepended to the next row-start line instead.
     """
     merged = []
+    pending_prefix = ""
     for line in lines:
-        if ROAD_PK_RE.search(line) or not merged:
+        road_m = ROAD_PK_RE.search(line)
+        if road_m:
+            if pending_prefix:
+                line = line[: road_m.end()] + pending_prefix + " " + line[road_m.end():]
             merged.append(line)
-        else:
+            pending_prefix = ""
+        elif merged and not NIVEL_RE.search(merged[-1]):
             merged[-1] = merged[-1].rstrip() + " " + line.lstrip()
+        else:
+            pending_prefix = (pending_prefix + " " + line).strip()
     return merged
  
  
