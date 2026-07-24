@@ -1,0 +1,248 @@
+{
+  "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
+  "fetched_at": "2026-07-24T20:01:30.676991+00:00",
+  "count": 22,
+  "roads": [
+    {
+      "zona": "Andalucía Huelva",
+      "carretera": "A-475",
+      "pk_ini": "11.8",
+      "pk_fin": "22.4",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Villanueva de las Cruces - Tharsis AMBOS SENTIDOS",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Teruel",
+      "carretera": "A-1702",
+      "pk_ini": "10.0",
+      "pk_fin": "20.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Ejulve",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "CM-1001",
+      "pk_ini": "75.0",
+      "pk_fin": "57.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Atienza - Hiendelaencina HIENDELAENCINA",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "CM-1005",
+      "pk_ini": "0.0",
+      "pk_fin": "3.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Tordelloso - Alpedroches",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "CM-1005",
+      "pk_ini": "0.0",
+      "pk_fin": "8.37",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Tordelloso - Miedes de Atienza",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "CM-1006",
+      "pk_ini": "0.0",
+      "pk_fin": "24.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Veguillas - La Huerce",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "CM-110",
+      "pk_ini": "49.39",
+      "pk_fin": "77.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Atienza - Campisábalos",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "GU-137",
+      "pk_ini": "0.0",
+      "pk_fin": "10.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Villares de Jadraque - Prádena de Atienza Prádena de Atienza",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "GU-140",
+      "pk_ini": "0.0",
+      "pk_fin": "3.75",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Bustares - Las Navas de Jadraque",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "GU-145",
+      "pk_ini": "0.0",
+      "pk_fin": "18.25",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Ujados - Bochones",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "GU-147",
+      "pk_ini": "0.0",
+      "pk_fin": "27.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Hiendelaencina - Condemios de Arriba Condemios de Arriba",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "GU-161",
+      "pk_ini": "0.0",
+      "pk_fin": "5.3",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Zarzuela de Jadraque",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "GU-177",
+      "pk_ini": "0.1",
+      "pk_fin": "1.13",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Arroyo de las Fraguas - La Nava",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "GU-213",
+      "pk_ini": "0.1",
+      "pk_fin": "16.1",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Ujados - Galve de Sorbe",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-502",
+      "pk_ini": "19.81",
+      "pk_fin": "31.48",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Cebreros - La Atalaya",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-901",
+      "pk_ini": "0.1",
+      "pk_fin": "9.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Burgohondo - Villanueva de Ávila",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid - Toledo",
+      "carretera": "M-507",
+      "pk_ini": "28.0",
+      "pk_fin": "36.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Villa del Prado - Parque Romillo",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid - Toledo",
+      "carretera": "M-540",
+      "pk_ini": "1.0",
+      "pk_fin": "6.8",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Villa del Prado - Cruz Verde",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid - Ávila",
+      "carretera": "N-403",
+      "pk_ini": "80.0",
+      "pk_fin": "100.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "San Martín de Valdeiglesias - Las Cruceras",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-501",
+      "pk_ini": "34.0",
+      "pk_fin": "60.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-512",
+      "pk_ini": "0.0",
+      "pk_fin": "22.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Robledondo - Navas del Rey",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-541",
+      "pk_ini": "0.0",
+      "pk_fin": "6.54",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "",
+      "nivel": "NEGRO"
+    }
+  ],
+  "unparsed_lines": [
+    ".",
+    "CRECIENTE DE LA",
+    "Castilla - La Mancha Guadalajara GU-144 0.0 2.9 Arbancón - Monasterio NEGRO",
+    "KILOMETRACIÓN",
+    "CRECIENTE DE LA",
+    "Castilla - La Mancha Guadalajara GU-151 0.0 12.9 Aldeanueva de Atienza - Arroyo de las Fraguas NEGRO",
+    "KILOMETRACIÓN",
+    "CRECIENTE DE LA",
+    "Castilla y León Ávila AV-502 0.0 19.34 Navalperal de Pinares - Cebreros NO APLICA",
+    "KILOMETRACIÓN",
+    "CRECIENTE DE LA",
+    "Castilla y León Ávila AV-503 25.5 39.06 San Bartolomé de Pinares - Cebreros NO APLICA",
+    "KILOMETRACIÓN",
+    "CRECIENTE DE LA",
+    "Castilla y León Ávila AV-504 0.1 6.44 Cebreros - Poblado de Burguillo NEGRO",
+    "KILOMETRACIÓN",
+    "CRECIENTE DE LA",
+    "Castilla y León Ávila AV-512 0.1 6.62 Cebreros - El Tiemblo NEGRO",
+    "KILOMETRACIÓN",
+    "CRECIENTE DE LA",
+    "Castilla y León Ávila AV-562 0.1 14.12 Cebreros - El Quexigal NEGRO",
+    "KILOMETRACIÓN",
+    "DECRECIENTE DE",
+    "Castilla y León Ávila AV-902 6.0 0.0 El Quejigo - Burgohondo NEGRO",
+    "LA KILOMETRACIÓN",
+    "Madrid, Comunidad de -",
+    "Castilla - La Mancha",
+    "Madrid, Comunidad de -",
+    "Castilla - La Mancha",
+    "Madrid, Comunidad de -",
+    "Castilla y León",
+    "Colmenar del Arroyo - San Martín de",
+    "Valdeiglesias",
+    "CRECIENTE DE LA",
+    "Madrid, Comunidad de Madrid M-510 20.0 20.0 Valdemorillo NAVALAGAMELLA NEGRO",
+    "KILOMETRACIÓN",
+    "CRECIENTE DE LA",
+    "Madrid, Comunidad de Madrid M-533 0.0 0.0 El Alcor M-600 ZARZALEJO NEGRO",
+    "KILOMETRACIÓN",
+    "Pelayos de la Presa - San Martín de",
+    "Valdeiglesias"
+  ]
+}
