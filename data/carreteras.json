@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-24T22:08:32.174093+00:00",
-  "count": 22,
+  "fetched_at": "2026-07-24T22:19:35.746597+00:00",
+  "count": 32,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -86,6 +86,15 @@
     },
     {
       "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "GU-144",
+      "pk_ini": "0.0",
+      "pk_fin": "2.9",
+      "sentido": null,
+      "localizacion": "Arbancón - Monasterio",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
       "carretera": "GU-145",
       "pk_ini": "0.0",
       "pk_fin": "18.25",
@@ -100,6 +109,15 @@
       "pk_fin": "27.0",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Hiendelaencina - Condemios de Arriba Condemios de Arriba",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "GU-151",
+      "pk_ini": "0.0",
+      "pk_fin": "12.9",
+      "sentido": null,
+      "localizacion": "Aldeanueva de Atienza - Arroyo de las Fraguas",
       "nivel": "NEGRO"
     },
     {
@@ -132,10 +150,55 @@
     {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-502",
+      "pk_ini": "0.0",
+      "pk_fin": "19.34",
+      "sentido": null,
+      "localizacion": "Navalperal de Pinares - Cebreros",
+      "nivel": "NO APLICA"
+    },
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-502",
       "pk_ini": "19.81",
       "pk_fin": "31.48",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Cebreros - La Atalaya",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-503",
+      "pk_ini": "25.5",
+      "pk_fin": "39.06",
+      "sentido": null,
+      "localizacion": "San Bartolomé de Pinares - Cebreros",
+      "nivel": "NO APLICA"
+    },
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-504",
+      "pk_ini": "0.1",
+      "pk_fin": "6.44",
+      "sentido": null,
+      "localizacion": "Cebreros - Poblado de Burguillo",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-512",
+      "pk_ini": "0.1",
+      "pk_fin": "6.62",
+      "sentido": null,
+      "localizacion": "Cebreros - El Tiemblo",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-562",
+      "pk_ini": "0.1",
+      "pk_fin": "14.12",
+      "sentido": null,
+      "localizacion": "Cebreros - El Quexigal",
       "nivel": "NEGRO"
     },
     {
@@ -145,6 +208,15 @@
       "pk_fin": "9.0",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Burgohondo - Villanueva de Ávila",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-902",
+      "pk_ini": "6.0",
+      "pk_fin": "0.0",
+      "sentido": null,
+      "localizacion": "El Quejigo - Burgohondo",
       "nivel": "NEGRO"
     },
     {
@@ -185,11 +257,29 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-510",
+      "pk_ini": "20.0",
+      "pk_fin": "20.0",
+      "sentido": null,
+      "localizacion": "Valdemorillo NAVALAGAMELLA",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-512",
       "pk_ini": "0.0",
       "pk_fin": "22.0",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Robledondo - Navas del Rey",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-533",
+      "pk_ini": "0.0",
+      "pk_fin": "0.0",
+      "sentido": null,
+      "localizacion": "El Alcor M-600 ZARZALEJO",
       "nivel": "NEGRO"
     },
     {
@@ -204,45 +294,6 @@
   ],
   "unparsed_lines": [
     ".",
-    "CRECIENTE DE LA",
-    "Castilla - La Mancha Guadalajara GU-144 0.0 2.9 Arbancón - Monasterio NEGRO",
-    "KILOMETRACIÓN",
-    "CRECIENTE DE LA",
-    "Castilla - La Mancha Guadalajara GU-151 0.0 12.9 Aldeanueva de Atienza - Arroyo de las Fraguas NEGRO",
-    "KILOMETRACIÓN",
-    "CRECIENTE DE LA",
-    "Castilla y León Ávila AV-502 0.0 19.34 Navalperal de Pinares - Cebreros NO APLICA",
-    "KILOMETRACIÓN",
-    "CRECIENTE DE LA",
-    "Castilla y León Ávila AV-503 25.5 39.06 San Bartolomé de Pinares - Cebreros NO APLICA",
-    "KILOMETRACIÓN",
-    "CRECIENTE DE LA",
-    "Castilla y León Ávila AV-504 0.1 6.44 Cebreros - Poblado de Burguillo NEGRO",
-    "KILOMETRACIÓN",
-    "CRECIENTE DE LA",
-    "Castilla y León Ávila AV-512 0.1 6.62 Cebreros - El Tiemblo NEGRO",
-    "KILOMETRACIÓN",
-    "CRECIENTE DE LA",
-    "Castilla y León Ávila AV-562 0.1 14.12 Cebreros - El Quexigal NEGRO",
-    "KILOMETRACIÓN",
-    "DECRECIENTE DE",
-    "Castilla y León Ávila AV-902 6.0 0.0 El Quejigo - Burgohondo NEGRO",
-    "LA KILOMETRACIÓN",
-    "Madrid, Comunidad de -",
-    "Castilla - La Mancha",
-    "Madrid, Comunidad de -",
-    "Castilla - La Mancha",
-    "Madrid, Comunidad de -",
-    "Castilla y León",
-    "Colmenar del Arroyo - San Martín de",
-    "Valdeiglesias",
-    "CRECIENTE DE LA",
-    "Madrid, Comunidad de Madrid M-510 20.0 20.0 Valdemorillo NAVALAGAMELLA NEGRO",
-    "KILOMETRACIÓN",
-    "CRECIENTE DE LA",
-    "Madrid, Comunidad de Madrid M-533 0.0 0.0 El Alcor M-600 ZARZALEJO NEGRO",
-    "KILOMETRACIÓN",
-    "Pelayos de la Presa - San Martín de",
-    "Valdeiglesias"
+    "Madrid, Comunidad de -"
   ]
 }
