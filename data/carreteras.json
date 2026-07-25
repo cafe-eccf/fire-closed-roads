@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-25T03:32:52.680121+00:00",
-  "count": 33,
+  "fetched_at": "2026-07-25T06:26:27.256512+00:00",
+  "count": 35,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -19,6 +19,24 @@
       "pk_fin": "20.0",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Ejulve",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Teruel",
+      "carretera": "TE-38",
+      "pk_ini": "0.0",
+      "pk_fin": "15.5",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Dos Torres de Mercader - Casas de la Umbría",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Teruel TE-",
+      "carretera": "V-8101",
+      "pk_ini": "0.0",
+      "pk_fin": "15.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Castellote - Dos Torres de Mercader",
       "nivel": "NEGRO"
     },
     {
