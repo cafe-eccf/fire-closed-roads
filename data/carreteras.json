@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-25T06:26:27.256512+00:00",
-  "count": 35,
+  "fetched_at": "2026-07-25T09:08:32.839538+00:00",
+  "count": 25,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -41,92 +41,20 @@
     },
     {
       "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "CM-1001",
-      "pk_ini": "75.0",
-      "pk_fin": "57.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Atienza - Hiendelaencina HIENDELAENCINA",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "CM-1005",
-      "pk_ini": "0.0",
-      "pk_fin": "3.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Tordelloso - Alpedroches",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "CM-1005",
-      "pk_ini": "0.0",
-      "pk_fin": "8.37",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Tordelloso - Miedes de Atienza",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "CM-1006",
-      "pk_ini": "0.0",
-      "pk_fin": "24.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Veguillas - La Huerce",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "CM-110",
-      "pk_ini": "49.39",
-      "pk_fin": "77.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Atienza - Campisábalos",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
       "carretera": "GU-137",
       "pk_ini": "0.0",
-      "pk_fin": "10.0",
+      "pk_fin": "10.3",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Villares de Jadraque - Prádena de Atienza Prádena de Atienza",
       "nivel": "NEGRO"
     },
     {
       "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "GU-140",
-      "pk_ini": "0.0",
-      "pk_fin": "3.75",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Bustares - Las Navas de Jadraque",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "GU-144",
-      "pk_ini": "0.0",
-      "pk_fin": "2.9",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Arbancón - Monasterio",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "GU-145",
-      "pk_ini": "0.0",
-      "pk_fin": "18.25",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Ujados - Bochones",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
       "carretera": "GU-147",
-      "pk_ini": "0.0",
+      "pk_ini": "20.0",
       "pk_fin": "27.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Hiendelaencina - Condemios de Arriba Condemios de Arriba",
+      "localizacion": "Aldeanueva de Atienza - Condemios de Arriba Condemios de Arriba",
       "nivel": "NEGRO"
     },
     {
@@ -140,29 +68,11 @@
     },
     {
       "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "GU-161",
-      "pk_ini": "0.0",
-      "pk_fin": "5.3",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Zarzuela de Jadraque",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "GU-177",
-      "pk_ini": "0.1",
-      "pk_fin": "1.13",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Arroyo de las Fraguas - La Nava",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
       "carretera": "GU-213",
       "pk_ini": "0.1",
       "pk_fin": "16.1",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Ujados - Galve de Sorbe",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Ujados - Galve de Sorbe",
       "nivel": "NEGRO"
     },
     {
@@ -267,7 +177,7 @@
     {
       "zona": "Madrid - Ávila",
       "carretera": "N-403",
-      "pk_ini": "80.0",
+      "pk_ini": "82.0",
       "pk_fin": "100.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS San Martín de Valdeiglesias - Las Cruceras",
@@ -285,10 +195,10 @@
     {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-510",
-      "pk_ini": "20.0",
-      "pk_fin": "20.0",
+      "pk_ini": "20.5",
+      "pk_fin": "40.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Valdeiglesias CRECIENTE DE LA Valdemorillo NAVALAGAMELLA",
+      "localizacion": "Valdeiglesias AMBOS SENTIDOS Valdemorillo - Chapinería NAVALAGAMELLA",
       "nivel": "NEGRO"
     },
     {
@@ -296,8 +206,8 @@
       "carretera": "M-512",
       "pk_ini": "0.0",
       "pk_fin": "22.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Robledondo - Navas del Rey",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Robledondo - Navas del Rey",
       "nivel": "NEGRO"
     },
     {
