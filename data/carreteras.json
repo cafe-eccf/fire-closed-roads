@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-25T21:05:43.565938+00:00",
+  "fetched_at": "2026-07-25T23:06:35.876218+00:00",
   "count": 25,
   "roads": [
     {
@@ -49,12 +49,21 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Toledo - Ávila",
+      "carretera": "N-403",
+      "pk_ini": "68.0",
+      "pk_fin": "100.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN Castilla - La Mancha - AMBOS SENTIDOS Parque Romillo - Las Cruceras",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-502",
       "pk_ini": "0.0",
       "pk_fin": "19.34",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Navalperal de Pinares - Cebreros",
+      "localizacion": "Castilla y León CRECIENTE DE LA Navalperal de Pinares - Cebreros",
       "nivel": "NO APLICA"
     },
     {
@@ -162,16 +171,7 @@
       "pk_ini": "1.0",
       "pk_fin": "6.8",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid - Ávila",
-      "carretera": "N-403",
-      "pk_ini": "73.0",
-      "pk_fin": "100.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS San Martín de Valdeiglesias - Las Cruceras",
+      "localizacion": "Comunitat Valenciana Castelló/Castellón CV-2261 (ENLACE) 0.04 0.0 AMBOS SENTIDOS la Vall d'Uixó VALL D'UXO NEGRO Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
       "nivel": "NEGRO"
     },
     {
@@ -180,7 +180,7 @@
       "pk_ini": "40.1",
       "pk_fin": "72.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla y León AMBOS SENTIDOS Navas del Rey - Venta del Cojo",
+      "localizacion": "Castilla - La Mancha AMBOS SENTIDOS Navas del Rey - Venta del Cojo",
       "nivel": "NEGRO"
     },
     {
