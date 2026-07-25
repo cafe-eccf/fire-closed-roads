@@ -1,15 +1,24 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-25T13:57:12.428912+00:00",
-  "count": 25,
+  "fetched_at": "2026-07-25T15:15:18.753361+00:00",
+  "count": 26,
   "roads": [
+    {
+      "zona": "Andalucía Granada",
+      "carretera": "GR-3204",
+      "pk_ini": "9.0",
+      "pk_fin": "7.5",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Pinos del Valle - Restábal",
+      "nivel": "NEGRO"
+    },
     {
       "zona": "Andalucía Huelva",
       "carretera": "A-475",
       "pk_ini": "11.8",
       "pk_fin": "22.4",
       "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Villanueva de las Cruces - Tharsis AMBOS SENTIDOS",
+      "localizacion": "Andalucía Granada N-323a 470.13 470.63 AMBOS SENTIDOS Béznar NEGRO AMBOS SENTIDOS Villanueva de las Cruces - Tharsis AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
@@ -186,7 +195,7 @@
     {
       "zona": "Madrid - Ávila",
       "carretera": "N-403",
-      "pk_ini": "82.0",
+      "pk_ini": "73.0",
       "pk_fin": "100.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS San Martín de Valdeiglesias - Las Cruceras",
@@ -197,8 +206,8 @@
       "carretera": "M-501",
       "pk_ini": "40.1",
       "pk_fin": "60.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla y León AMBOS SENTIDOS Navas del Rey - San Martín de Valdeiglesias",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Navas del Rey - San Martín de Valdeiglesias",
       "nivel": "NEGRO"
     },
     {
@@ -214,9 +223,9 @@
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-533",
       "pk_ini": "0.0",
-      "pk_fin": "0.0",
+      "pk_fin": "10.5",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA El Alcor M-600 ZARZALEJO",
+      "localizacion": "CRECIENTE DE LA El Alcor - Zarzalejo",
       "nivel": "NEGRO"
     },
     {
