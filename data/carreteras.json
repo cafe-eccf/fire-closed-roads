@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-24T23:12:29.411339+00:00",
-  "count": 32,
+  "fetched_at": "2026-07-25T03:32:52.680121+00:00",
+  "count": 33,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -217,6 +217,15 @@
       "pk_fin": "0.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "DECRECIENTE DE El Quejigo - Burgohondo",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-904",
+      "pk_ini": "0.0",
+      "pk_fin": "2.9",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Cerro Guisando",
       "nivel": "NEGRO"
     },
     {
