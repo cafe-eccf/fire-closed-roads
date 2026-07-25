@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-25T15:15:18.753361+00:00",
+  "fetched_at": "2026-07-25T17:11:29.832577+00:00",
   "count": 26,
   "roads": [
     {
@@ -50,15 +50,6 @@
     },
     {
       "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "GU-137",
-      "pk_ini": "0.0",
-      "pk_fin": "10.3",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Villares de Jadraque - Prádena de Atienza Prádena de Atienza",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
       "carretera": "GU-147",
       "pk_ini": "20.0",
       "pk_fin": "27.0",
@@ -76,21 +67,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "GU-213",
-      "pk_ini": "0.1",
-      "pk_fin": "16.1",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Ujados - Galve de Sorbe",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-502",
       "pk_ini": "0.0",
       "pk_fin": "19.34",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Navalperal de Pinares - Cebreros",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Navalperal de Pinares - Cebreros",
       "nivel": "NO APLICA"
     },
     {
@@ -150,10 +132,19 @@
     {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-902",
-      "pk_ini": "6.0",
-      "pk_fin": "0.0",
+      "pk_ini": "0.0",
+      "pk_fin": "6.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "DECRECIENTE DE El Quejigo - Burgohondo",
+      "localizacion": "CRECIENTE DE LA Burgohondo - El Quejigo",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-902",
+      "pk_ini": "8.0",
+      "pk_fin": "20.709",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Navaluenga - La Rinconada",
       "nivel": "NEGRO"
     },
     {
@@ -162,7 +153,7 @@
       "pk_ini": "0.0",
       "pk_fin": "2.9",
       "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Cerro Guisando",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Cerro Guisando",
       "nivel": "NEGRO"
     },
     {
@@ -175,12 +166,21 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Comunitat Valenciana Castelló/Castellón",
+      "carretera": "CV-223",
+      "pk_ini": "0.0",
+      "pk_fin": "5.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Nules - Artana AMBOS",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Madrid - Toledo",
       "carretera": "M-507",
       "pk_ini": "28.0",
       "pk_fin": "36.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Parque Romillo",
+      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Parque Romillo",
       "nivel": "NEGRO"
     },
     {
@@ -198,7 +198,7 @@
       "pk_ini": "73.0",
       "pk_fin": "100.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS San Martín de Valdeiglesias - Las Cruceras",
+      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS San Martín de Valdeiglesias - Las Cruceras",
       "nivel": "NEGRO"
     },
     {
@@ -206,8 +206,8 @@
       "carretera": "M-501",
       "pk_ini": "40.1",
       "pk_fin": "60.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Navas del Rey - San Martín de Valdeiglesias",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castilla y León AMBOS SENTIDOS Navas del Rey - San Martín de Valdeiglesias",
       "nivel": "NEGRO"
     },
     {
