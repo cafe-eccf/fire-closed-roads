@@ -1,24 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-25T19:23:34.469352+00:00",
+  "fetched_at": "2026-07-25T21:05:43.565938+00:00",
   "count": 25,
   "roads": [
-    {
-      "zona": "Andalucía Granada",
-      "carretera": "GR-3204",
-      "pk_ini": "9.0",
-      "pk_fin": "7.5",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Pinos del Valle - Restábal",
-      "nivel": "NEGRO"
-    },
     {
       "zona": "Andalucía Huelva",
       "carretera": "A-475",
       "pk_ini": "11.8",
       "pk_fin": "22.4",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Andalucía Granada N-323a 470.13 470.63 AMBOS SENTIDOS Béznar NEGRO AMBOS SENTIDOS Villanueva de las Cruces - Tharsis AMBOS SENTIDOS",
+      "localizacion": ". AMBOS SENTIDOS Villanueva de las Cruces - Tharsis AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
@@ -167,20 +158,11 @@
     },
     {
       "zona": "Madrid - Toledo",
-      "carretera": "M-507",
-      "pk_ini": "28.0",
-      "pk_fin": "36.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Parque Romillo",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid - Toledo",
       "carretera": "M-540",
       "pk_ini": "1.0",
       "pk_fin": "6.8",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
+      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
       "nivel": "NEGRO"
     },
     {
@@ -196,9 +178,27 @@
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-501",
       "pk_ini": "40.1",
-      "pk_fin": "60.0",
+      "pk_fin": "72.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castilla y León AMBOS SENTIDOS Navas del Rey - Venta del Cojo",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-507",
+      "pk_ini": "28.0",
+      "pk_fin": "50.17",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Navas del Rey - San Martín de Valdeiglesias",
+      "localizacion": "Villa del Prado - Venta del Cojo",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-510",
+      "pk_ini": "20.5",
+      "pk_fin": "53.9",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Valdemorillo - Dehesa de Hernán Vicente",
       "nivel": "NEGRO"
     },
     {
