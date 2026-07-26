@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-26T17:12:23.606324+00:00",
-  "count": 45,
+  "fetched_at": "2026-07-26T19:24:51.010809+00:00",
+  "count": 44,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -221,6 +221,15 @@
     },
     {
       "zona": "Castilla y León Ávila AV-",
+      "carretera": "P-703",
+      "pk_ini": "0.2",
+      "pk_fin": "4.79",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Sotillo de la Adrada - Casillas",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila AV-",
       "carretera": "P-705",
       "pk_ini": "0.0",
       "pk_fin": "11.4",
@@ -301,30 +310,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Comunitat Valenciana València/Valencia",
-      "carretera": "CV-500",
-      "pk_ini": "0.0",
-      "pk_fin": "0.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "DECRECIENTE DE Pinedo V-15 ENTRADA VALENCIA",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Comunitat Valenciana València/Valencia",
-      "carretera": "CV-500",
-      "pk_ini": "0.5",
-      "pk_fin": "0.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN DECRECIENTE DE Pinedo VALENCIA",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Madrid - Toledo",
       "carretera": "M-540",
       "pk_ini": "1.0",
       "pk_fin": "6.8",
       "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
+      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
       "nivel": "NEGRO"
     },
     {
