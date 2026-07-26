@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-26T11:33:58.260389+00:00",
-  "count": 36,
+  "fetched_at": "2026-07-26T13:49:45.723466+00:00",
+  "count": 42,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -95,11 +95,20 @@
     },
     {
       "zona": "Castilla - La Mancha Toledo",
+      "carretera": "TO-1451",
+      "pk_ini": "0.0",
+      "pk_fin": "8.4",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Escalona - Paredes de Escalona",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
       "carretera": "TO-1560",
       "pk_ini": "0.0",
       "pk_fin": "6.1",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Almorox",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Almorox",
       "nivel": "NEGRO"
     },
     {
@@ -112,12 +121,30 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Toledo - Ávila",
+      "carretera": "N-403",
+      "pk_ini": "68.0",
+      "pk_fin": "83.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castilla y León Castilla - La Mancha - AMBOS SENTIDOS Parque Romillo - La Atalaya",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Toledo - Madrid",
+      "carretera": "N-403",
+      "pk_ini": "62.0",
+      "pk_fin": "71.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castilla y León Castilla - La Mancha - CRECIENTE DE LA Almorox - San Martín de Valdeiglesias",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-502",
       "pk_ini": "19.81",
       "pk_fin": "31.48",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla y León AMBOS SENTIDOS Cebreros - La Atalaya",
+      "localizacion": "Madrid, Comunidad de KILOMETRACIÓN AMBOS SENTIDOS Cebreros - La Atalaya",
       "nivel": "NEGRO"
     },
     {
@@ -178,9 +205,9 @@
       "zona": "Castilla y León Ávila",
       "carretera": "AV-902",
       "pk_ini": "8.0",
-      "pk_fin": "20.709",
+      "pk_fin": "20.67",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Navaluenga - La Rinconada",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Navaluenga - La Rinconada",
       "nivel": "NEGRO"
     },
     {
@@ -188,8 +215,17 @@
       "carretera": "AV-904",
       "pk_ini": "0.0",
       "pk_fin": "2.9",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Cerro Guisando",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "La Atalaya - Cerro Guisando",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila AV-",
+      "carretera": "P-705",
+      "pk_ini": "0.0",
+      "pk_fin": "11.4",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Mijares - Gavilanes",
       "nivel": "NEGRO"
     },
     {
@@ -213,7 +249,7 @@
     {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-200",
-      "pk_ini": "6.0",
+      "pk_ini": "8.0",
       "pk_fin": "19.0",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Almedíjar - Aín",
@@ -226,6 +262,15 @@
       "pk_fin": "29.34",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Ayódar - Caudiel",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Comunitat Valenciana Castelló/Castellón",
+      "carretera": "CV-205",
+      "pk_ini": "0.0",
+      "pk_fin": "16.9",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Tales - Fuentes de Ayódar",
       "nivel": "NEGRO"
     },
     {
@@ -249,7 +294,7 @@
     {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-230",
-      "pk_ini": "8.0",
+      "pk_ini": "6.0",
       "pk_fin": "19.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "Comunitat Valenciana Castelló/Castellón CV-2261 (ENLACE) 0.04 0.0 AMBOS SENTIDOS la Vall d'Uixó VALL D'UXO NEGRO AMBOS SENTIDOS Azuébar - la Vall d'Uixó",
@@ -325,6 +370,15 @@
       "pk_fin": "6.54",
       "sentido": "DESCONOCIDO",
       "localizacion": "Pelayos de la Presa - San Martín de AMBOS SENTIDOS",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-548",
+      "pk_ini": "0.0",
+      "pk_fin": "13.1",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Valdeiglesias AMBOS SENTIDOS Cenicientos - Encinar de la Parra",
       "nivel": "NEGRO"
     }
   ],
