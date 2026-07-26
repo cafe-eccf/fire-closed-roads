@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-26T06:45:27.718939+00:00",
-  "count": 36,
+  "fetched_at": "2026-07-26T09:21:31.962195+00:00",
+  "count": 37,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -13,48 +13,21 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Aragón Teruel",
-      "carretera": "A-1702",
-      "pk_ini": "10.0",
-      "pk_fin": "20.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Ejulve",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Aragón Teruel TE-",
-      "carretera": "V-8101",
-      "pk_ini": "0.0",
-      "pk_fin": "15.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Castellote - Dos Torres de Mercader",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "GU-147",
-      "pk_ini": "20.0",
-      "pk_fin": "27.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Aldeanueva de Atienza - Condemios de Arriba Condemios de Arriba",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "GU-151",
-      "pk_ini": "0.0",
-      "pk_fin": "12.9",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Aldeanueva de Atienza - Arroyo de las Fraguas",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Castilla - La Mancha Toledo",
       "carretera": "CM-5002",
       "pk_ini": "0.0",
       "pk_fin": "16.2",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA El Real de San Vicente - Kiem",
+      "localizacion": "CRECIENTE DE LA El Real de San Vicente - Kiem",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "CM-5005",
+      "pk_ini": "0.0",
+      "pk_fin": "35.18",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Escalona - Almendral de la Cañada",
       "nivel": "NEGRO"
     },
     {
@@ -62,8 +35,8 @@
       "carretera": "CM-5006",
       "pk_ini": "0.0",
       "pk_fin": "25.22",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Marrupe - La Iglesuela del Tiétar",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Marrupe - La Iglesuela del Tiétar",
       "nivel": "NEGRO"
     },
     {
@@ -215,8 +188,8 @@
       "carretera": "AV-901",
       "pk_ini": "0.1",
       "pk_fin": "9.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Burgohondo - Villanueva de Ávila",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Burgohondo - Villanueva de Ávila",
       "nivel": "NEGRO"
     },
     {
@@ -234,7 +207,7 @@
       "pk_ini": "8.0",
       "pk_fin": "20.709",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Navaluenga - La Rinconada",
+      "localizacion": "CRECIENTE DE LA Navaluenga - La Rinconada",
       "nivel": "NEGRO"
     },
     {
@@ -257,11 +230,47 @@
     },
     {
       "zona": "Comunitat Valenciana Castelló/Castellón",
+      "carretera": "CV-200",
+      "pk_ini": "6.0",
+      "pk_fin": "19.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Almedíjar - Aín",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Comunitat Valenciana Castelló/Castellón",
+      "carretera": "CV-203",
+      "pk_ini": "0.0",
+      "pk_fin": "29.34",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Ayódar - Caudiel",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Comunitat Valenciana Castelló/Castellón",
+      "carretera": "CV-219",
+      "pk_ini": "0.0",
+      "pk_fin": "13.55",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "DECRECIENTE DE Comunitat Valenciana Castelló/Castellón CV-215 (SALIDA) 10.7 0.0 Algimia de Almonacid - Alcudia de Veo SENTIDO ALCUDIA DE VEO NEGRO LA KILOMETRACIÓN AMBOS SENTIDOS Chóvar - Eslida",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-223",
       "pk_ini": "0.0",
-      "pk_fin": "11.0",
+      "pk_fin": "32.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Nules - Onda AMBOS",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Comunitat Valenciana Castelló/Castellón",
+      "carretera": "CV-230",
+      "pk_ini": "8.0",
+      "pk_fin": "19.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Nules - Eslida AMBOS",
+      "localizacion": "Comunitat Valenciana Castelló/Castellón CV-2261 (ENLACE) 0.04 0.0 AMBOS SENTIDOS la Vall d'Uixó VALL D'UXO NEGRO AMBOS SENTIDOS Azuébar - la Vall d'Uixó",
       "nivel": "NEGRO"
     },
     {
@@ -270,7 +279,7 @@
       "pk_ini": "1.0",
       "pk_fin": "6.8",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Comunitat Valenciana Castelló/Castellón CV-2261 (ENLACE) 0.04 0.0 AMBOS SENTIDOS la Vall d'Uixó VALL D'UXO NEGRO Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
+      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
       "nivel": "NEGRO"
     },
     {
