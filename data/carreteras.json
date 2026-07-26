@@ -1,24 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-26T09:21:31.962195+00:00",
-  "count": 37,
+  "fetched_at": "2026-07-26T11:33:58.260389+00:00",
+  "count": 36,
   "roads": [
-    {
-      "zona": "Andalucía Huelva",
-      "carretera": "A-475",
-      "pk_ini": "11.8",
-      "pk_fin": "22.4",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Villanueva de las Cruces - Tharsis AMBOS SENTIDOS",
-      "nivel": "NEGRO"
-    },
     {
       "zona": "Castilla - La Mancha Toledo",
       "carretera": "CM-5002",
       "pk_ini": "0.0",
       "pk_fin": "16.2",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA El Real de San Vicente - Kiem",
+      "localizacion": ". CRECIENTE DE LA El Real de San Vicente - Kiem",
       "nivel": "NEGRO"
     },
     {
@@ -121,30 +112,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Toledo - Ávila",
-      "carretera": "N-403",
-      "pk_ini": "68.0",
-      "pk_fin": "100.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla y León Castilla - La Mancha - AMBOS SENTIDOS Parque Romillo - Las Cruceras",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-502",
-      "pk_ini": "0.0",
-      "pk_fin": "19.34",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla y León CRECIENTE DE LA Navalperal de Pinares - Cebreros",
-      "nivel": "NO APLICA"
-    },
-    {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-502",
       "pk_ini": "19.81",
       "pk_fin": "31.48",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Cebreros - La Atalaya",
+      "localizacion": "Castilla y León AMBOS SENTIDOS Cebreros - La Atalaya",
       "nivel": "NEGRO"
     },
     {
@@ -187,9 +160,9 @@
       "zona": "Castilla y León Ávila",
       "carretera": "AV-901",
       "pk_ini": "0.1",
-      "pk_fin": "9.0",
+      "pk_fin": "43.5",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Burgohondo - Villanueva de Ávila",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Burgohondo - Casavieja",
       "nivel": "NEGRO"
     },
     {
@@ -207,7 +180,7 @@
       "pk_ini": "8.0",
       "pk_fin": "20.709",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Navaluenga - La Rinconada",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Navaluenga - La Rinconada",
       "nivel": "NEGRO"
     },
     {
@@ -229,12 +202,21 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Castilla y León Ávila",
+      "carretera": "N-403",
+      "pk_ini": "83.0",
+      "pk_fin": "100.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Las Cruceras",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-200",
       "pk_ini": "6.0",
       "pk_fin": "19.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Almedíjar - Aín",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Almedíjar - Aín",
       "nivel": "NEGRO"
     },
     {
@@ -329,11 +311,20 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-537",
+      "pk_ini": "0.0",
+      "pk_fin": "2.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Robledo de Chavela",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-541",
       "pk_ini": "0.0",
       "pk_fin": "6.54",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN Pelayos de la Presa - San Martín de AMBOS SENTIDOS",
+      "localizacion": "Pelayos de la Presa - San Martín de AMBOS SENTIDOS",
       "nivel": "NEGRO"
     }
   ],
