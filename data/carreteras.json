@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-26T03:49:17.157220+00:00",
-  "count": 25,
+  "fetched_at": "2026-07-26T06:45:27.718939+00:00",
+  "count": 36,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -49,12 +49,111 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "CM-5002",
+      "pk_ini": "0.0",
+      "pk_fin": "16.2",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA El Real de San Vicente - Kiem",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "CM-5006",
+      "pk_ini": "0.0",
+      "pk_fin": "25.22",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Marrupe - La Iglesuela del Tiétar",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "CM-5053",
+      "pk_ini": "0.0",
+      "pk_fin": "4.7",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "La Iglesuela del Tiétar",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "CM-5100",
+      "pk_ini": "14.4",
+      "pk_fin": "31.49",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "San Román de los Montes - El Buen Suceso",
+      "nivel": "NO APLICA"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "CM-543",
+      "pk_ini": "0.0",
+      "pk_fin": "9.28",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Escalona - Paredes de Escalona",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "TO-1364",
+      "pk_ini": "0.0",
+      "pk_fin": "16.5",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Nombela - Castillo de Bayuela",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "TO-1368",
+      "pk_ini": "0.1",
+      "pk_fin": "6.19",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Castillo de Bayuela - San Román de los Montes",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "TO-1375",
+      "pk_ini": "0.0",
+      "pk_fin": "15.45",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "El Real de San Vicente - Navamorcuende",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "TO-1385",
+      "pk_ini": "0.1",
+      "pk_fin": "3.41",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Almendral de la Cañada - Sartajada",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "TO-1560",
+      "pk_ini": "0.0",
+      "pk_fin": "6.1",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Almorox",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Toledo - Ávila",
+      "carretera": "CM-5001",
+      "pk_ini": "11.0",
+      "pk_fin": "34.02",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castilla - La Mancha - AMBOS SENTIDOS El Cornicabral - Higuera de las Dueñas",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Toledo - Ávila",
       "carretera": "N-403",
       "pk_ini": "68.0",
       "pk_fin": "100.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN Castilla - La Mancha - AMBOS SENTIDOS Parque Romillo - Las Cruceras",
+      "localizacion": "Castilla y León Castilla - La Mancha - AMBOS SENTIDOS Parque Romillo - Las Cruceras",
       "nivel": "NEGRO"
     },
     {
@@ -116,8 +215,8 @@
       "carretera": "AV-901",
       "pk_ini": "0.1",
       "pk_fin": "9.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Burgohondo - Villanueva de Ávila",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Burgohondo - Villanueva de Ávila",
       "nivel": "NEGRO"
     },
     {
