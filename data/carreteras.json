@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-26T15:15:11.603938+00:00",
-  "count": 42,
+  "fetched_at": "2026-07-26T17:12:23.606324+00:00",
+  "count": 45,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -186,7 +186,7 @@
     {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-901",
-      "pk_ini": "0.1",
+      "pk_ini": "1.36",
       "pk_fin": "43.5",
       "sentido": "DESCONOCIDO",
       "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Burgohondo - Casavieja",
@@ -301,12 +301,39 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Comunitat Valenciana València/Valencia",
+      "carretera": "CV-500",
+      "pk_ini": "0.0",
+      "pk_fin": "0.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "DECRECIENTE DE Pinedo V-15 ENTRADA VALENCIA",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Comunitat Valenciana València/Valencia",
+      "carretera": "CV-500",
+      "pk_ini": "0.5",
+      "pk_fin": "0.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN DECRECIENTE DE Pinedo VALENCIA",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Madrid - Toledo",
       "carretera": "M-540",
       "pk_ini": "1.0",
       "pk_fin": "6.8",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
+      "localizacion": "LA KILOMETRACIÓN Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid - Ávila",
+      "carretera": "M-539",
+      "pk_ini": "0.0",
+      "pk_fin": "6.1",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS Robledo de Chavela - El Quexigal",
       "nivel": "NEGRO"
     },
     {
@@ -315,7 +342,7 @@
       "pk_ini": "40.1",
       "pk_fin": "72.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla - La Mancha AMBOS SENTIDOS Navas del Rey - Venta del Cojo",
+      "localizacion": "Castilla y León AMBOS SENTIDOS Navas del Rey - Venta del Cojo",
       "nivel": "NEGRO"
     },
     {
