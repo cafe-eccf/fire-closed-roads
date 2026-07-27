@@ -1,33 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-27T17:51:33.836534+00:00",
-  "count": 53,
+  "fetched_at": "2026-07-27T19:48:45.463968+00:00",
+  "count": 49,
   "roads": [
-    {
-      "zona": "Castilla - La Mancha Toledo",
-      "carretera": "CM-5002",
-      "pk_ini": "0.0",
-      "pk_fin": "9.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". CRECIENTE DE LA El Real de San Vicente - Cardiel de los Montes",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Toledo",
-      "carretera": "CM-5005",
-      "pk_ini": "0.0",
-      "pk_fin": "35.18",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Escalona - Almendral de la Cañada",
-      "nivel": "NEGRO"
-    },
     {
       "zona": "Castilla - La Mancha Toledo",
       "carretera": "CM-5006",
       "pk_ini": "0.0",
       "pk_fin": "25.22",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Marrupe - La Iglesuela del Tiétar",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Marrupe - La Iglesuela del Tiétar",
       "nivel": "NEGRO"
     },
     {
@@ -38,15 +20,6 @@
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "La Iglesuela del Tiétar",
       "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Toledo",
-      "carretera": "CM-5100",
-      "pk_ini": "14.4",
-      "pk_fin": "31.49",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "San Román de los Montes - El Buen Suceso",
-      "nivel": "NO APLICA"
     },
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -73,15 +46,6 @@
       "pk_fin": "6.19",
       "sentido": "DESCONOCIDO",
       "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Castillo de Bayuela - San Román de los Montes",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Toledo",
-      "carretera": "TO-1375",
-      "pk_ini": "0.0",
-      "pk_fin": "15.45",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "El Real de San Vicente - Navamorcuende",
       "nivel": "NEGRO"
     },
     {
@@ -113,20 +77,11 @@
     },
     {
       "zona": "Toledo - Ávila",
-      "carretera": "CM-5001",
-      "pk_ini": "11.0",
-      "pk_fin": "34.02",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla - La Mancha - AMBOS SENTIDOS El Cornicabral - Higuera de las Dueñas",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Toledo - Ávila",
       "carretera": "N-403",
       "pk_ini": "68.0",
       "pk_fin": "83.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla y León Castilla - La Mancha - AMBOS SENTIDOS Parque Romillo - La Atalaya",
+      "localizacion": "Castilla - La Mancha - AMBOS SENTIDOS Parque Romillo - La Atalaya",
       "nivel": "NEGRO"
     },
     {
@@ -215,8 +170,8 @@
       "carretera": "AV-902",
       "pk_ini": "8.0",
       "pk_fin": "20.67",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Navaluenga - La Rinconada",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Navaluenga - La Rinconada",
       "nivel": "NEGRO"
     },
     {
@@ -231,10 +186,19 @@
     {
       "zona": "Castilla y León Ávila AV-",
       "carretera": "P-308",
-      "pk_ini": "0.0",
-      "pk_fin": "8.8",
+      "pk_ini": "8.8",
+      "pk_fin": "0.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Las Navas del Marqués - Peguerinos",
+      "localizacion": "DECRECIENTE DE Peguerinos - Las Navas del Marqués",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila AV-",
+      "carretera": "P-310",
+      "pk_ini": "1.74",
+      "pk_fin": "2.34",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN CRECIENTE DE LA Hoyo de la Guija",
       "nivel": "NEGRO"
     },
     {
@@ -267,19 +231,19 @@
     {
       "zona": "Castilla y León Ávila",
       "carretera": "CL-505",
-      "pk_ini": "37.5",
-      "pk_fin": "42.0",
+      "pk_ini": "29.7",
+      "pk_fin": "35.7",
       "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN CRECIENTE DE LA Las Navas del Marqués",
+      "localizacion": "LA KILOMETRACIÓN CRECIENTE DE LA Navalperal de Pinares - La Estación",
       "nivel": "NEGRO"
     },
     {
       "zona": "Castilla y León Ávila",
       "carretera": "CL-505",
-      "pk_ini": "42.0",
-      "pk_fin": "29.7",
+      "pk_ini": "37.5",
+      "pk_fin": "42.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN DECRECIENTE DE Las Navas del Marqués - Navalperal de Pinares",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Las Navas del Marqués",
       "nivel": "NEGRO"
     },
     {
@@ -287,8 +251,8 @@
       "carretera": "N-403",
       "pk_ini": "83.0",
       "pk_fin": "100.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Las Cruceras",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "La Atalaya - Las Cruceras",
       "nivel": "NEGRO"
     },
     {
@@ -449,8 +413,8 @@
       "carretera": "M-548",
       "pk_ini": "0.0",
       "pk_fin": "13.1",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Cenicientos - Encinar de la Parra",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Valdeiglesias AMBOS SENTIDOS Cenicientos - Encinar de la Parra",
       "nivel": "NEGRO"
     },
     {
