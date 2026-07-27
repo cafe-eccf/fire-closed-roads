@@ -1,15 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-27T19:48:45.463968+00:00",
-  "count": 49,
+  "fetched_at": "2026-07-27T21:20:39.418156+00:00",
+  "count": 50,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
       "carretera": "CM-5006",
-      "pk_ini": "0.0",
-      "pk_fin": "25.22",
+      "pk_ini": "14.5",
+      "pk_fin": "25.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Marrupe - La Iglesuela del Tiétar",
+      "localizacion": ". AMBOS SENTIDOS Almendral de la Cañada - La Iglesuela del Tiétar",
       "nivel": "NEGRO"
     },
     {
@@ -28,24 +28,6 @@
       "pk_fin": "9.28",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Escalona - Paredes de Escalona",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Toledo",
-      "carretera": "TO-1364",
-      "pk_ini": "0.0",
-      "pk_fin": "16.5",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Nombela - Castillo de Bayuela",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Toledo",
-      "carretera": "TO-1368",
-      "pk_ini": "0.1",
-      "pk_fin": "6.19",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Castillo de Bayuela - San Román de los Montes",
       "nivel": "NEGRO"
     },
     {
@@ -234,7 +216,7 @@
       "pk_ini": "29.7",
       "pk_fin": "35.7",
       "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN CRECIENTE DE LA Navalperal de Pinares - La Estación",
+      "localizacion": "CRECIENTE DE LA Navalperal de Pinares - La Estación",
       "nivel": "NEGRO"
     },
     {
@@ -338,6 +320,15 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-505",
+      "pk_ini": "36.0",
+      "pk_fin": "47.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Robledondo - Valdemaqueda",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-507",
       "pk_ini": "18.0",
       "pk_fin": "50.15",
@@ -392,11 +383,29 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-535",
+      "pk_ini": "0.0",
+      "pk_fin": "10.73",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS La Cereda - Santa María de la Alameda",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-537",
       "pk_ini": "0.0",
       "pk_fin": "2.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Robledo de Chavela",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Robledo de Chavela",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-538",
+      "pk_ini": "0.0",
+      "pk_fin": "6.8",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Santa María de la Alameda - La Paradilla",
       "nivel": "NEGRO"
     },
     {
