@@ -1,15 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-27T07:45:46.575211+00:00",
-  "count": 44,
+  "fetched_at": "2026-07-27T11:35:44.463378+00:00",
+  "count": 50,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
       "carretera": "CM-5002",
       "pk_ini": "0.0",
-      "pk_fin": "16.2",
+      "pk_fin": "9.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": ". CRECIENTE DE LA El Real de San Vicente - Kiem",
+      "localizacion": ". CRECIENTE DE LA El Real de San Vicente - Cardiel de los Montes",
       "nivel": "NEGRO"
     },
     {
@@ -311,11 +311,20 @@
     },
     {
       "zona": "Madrid - Toledo",
+      "carretera": "M-507",
+      "pk_ini": "28.0",
+      "pk_fin": "36.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Parque Romillo",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid - Toledo",
       "carretera": "M-540",
       "pk_ini": "1.0",
       "pk_fin": "6.8",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
+      "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
       "nivel": "NEGRO"
     },
     {
@@ -330,7 +339,7 @@
     {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-501",
-      "pk_ini": "40.1",
+      "pk_ini": "40.0",
       "pk_fin": "72.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "Castilla y León AMBOS SENTIDOS Navas del Rey - Venta del Cojo",
@@ -339,10 +348,10 @@
     {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-507",
-      "pk_ini": "28.0",
-      "pk_fin": "50.17",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Villa del Prado - Venta del Cojo",
+      "pk_ini": "18.0",
+      "pk_fin": "28.5",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Aldea del Fresno - Villa del Prado",
       "nivel": "NEGRO"
     },
     {
@@ -350,17 +359,44 @@
       "carretera": "M-510",
       "pk_ini": "20.5",
       "pk_fin": "53.9",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Valdemorillo - Dehesa de Hernán Vicente",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Valdemorillo - Dehesa de Hernán Vicente",
       "nivel": "NEGRO"
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-512",
       "pk_ini": "0.0",
-      "pk_fin": "22.0",
+      "pk_fin": "10.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Robledondo - Robledo de Chavela",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-512",
+      "pk_ini": "10.5",
+      "pk_fin": "20.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Robledo de Chavela",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-521",
+      "pk_ini": "6.0",
+      "pk_fin": "16.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Robledondo - Navas del Rey",
+      "localizacion": "Quijorna - Navalagamella",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-531",
+      "pk_ini": "0.0",
+      "pk_fin": "8.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Colmenar del Arroyo - Robledo de Chavela",
       "nivel": "NEGRO"
     },
     {
@@ -385,7 +421,7 @@
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-541",
       "pk_ini": "0.0",
-      "pk_fin": "6.54",
+      "pk_fin": "6.4",
       "sentido": "DESCONOCIDO",
       "localizacion": "Pelayos de la Presa - San Martín de AMBOS SENTIDOS",
       "nivel": "NEGRO"
@@ -397,6 +433,24 @@
       "pk_fin": "13.1",
       "sentido": "DESCONOCIDO",
       "localizacion": "Valdeiglesias AMBOS SENTIDOS Cenicientos - Encinar de la Parra",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-855",
+      "pk_ini": "0.0",
+      "pk_fin": "3.5",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Navas del Rey - La Rocha",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-957",
+      "pk_ini": "0.0",
+      "pk_fin": "5.75",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "San Martín de Valdeiglesias - Costa de Madrid",
       "nivel": "NEGRO"
     }
   ],
