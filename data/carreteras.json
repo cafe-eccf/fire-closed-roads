@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-27T15:08:51.316729+00:00",
-  "count": 51,
+  "fetched_at": "2026-07-27T17:51:33.836534+00:00",
+  "count": 53,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -230,11 +230,20 @@
     },
     {
       "zona": "Castilla y León Ávila AV-",
+      "carretera": "P-308",
+      "pk_ini": "0.0",
+      "pk_fin": "8.8",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Las Navas del Marqués - Peguerinos",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila AV-",
       "carretera": "P-703",
       "pk_ini": "0.2",
       "pk_fin": "4.79",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Sotillo de la Adrada - Casillas",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Sotillo de la Adrada - Casillas",
       "nivel": "NEGRO"
     },
     {
@@ -266,11 +275,20 @@
     },
     {
       "zona": "Castilla y León Ávila",
+      "carretera": "CL-505",
+      "pk_ini": "42.0",
+      "pk_fin": "29.7",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN DECRECIENTE DE Las Navas del Marqués - Navalperal de Pinares",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
       "carretera": "N-403",
       "pk_ini": "83.0",
       "pk_fin": "100.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Las Cruceras",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Las Cruceras",
       "nivel": "NEGRO"
     },
     {
@@ -431,8 +449,8 @@
       "carretera": "M-548",
       "pk_ini": "0.0",
       "pk_fin": "13.1",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Valdeiglesias AMBOS SENTIDOS Cenicientos - Encinar de la Parra",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Cenicientos - Encinar de la Parra",
       "nivel": "NEGRO"
     },
     {
@@ -449,8 +467,8 @@
       "carretera": "M-957",
       "pk_ini": "0.0",
       "pk_fin": "5.75",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "San Martín de Valdeiglesias - Costa de Madrid",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS San Martín de Valdeiglesias - Costa de Madrid",
       "nivel": "NEGRO"
     },
     {
