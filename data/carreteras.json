@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-27T03:57:31.900531+00:00",
+  "fetched_at": "2026-07-27T07:45:46.575211+00:00",
   "count": 44,
   "roads": [
     {
@@ -141,10 +141,10 @@
     {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-502",
-      "pk_ini": "19.81",
+      "pk_ini": "0.0",
       "pk_fin": "31.48",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de KILOMETRACIÓN AMBOS SENTIDOS Cebreros - La Atalaya",
+      "localizacion": "Madrid, Comunidad de KILOMETRACIÓN AMBOS SENTIDOS Navalperal de Pinares - La Atalaya",
       "nivel": "NEGRO"
     },
     {
@@ -154,7 +154,7 @@
       "pk_fin": "39.06",
       "sentido": "DESCONOCIDO",
       "localizacion": "CRECIENTE DE LA San Bartolomé de Pinares - Cebreros",
-      "nivel": "NO APLICA"
+      "nivel": "NEGRO"
     },
     {
       "zona": "Castilla y León Ávila",
