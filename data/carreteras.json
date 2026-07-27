@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-27T11:35:44.463378+00:00",
-  "count": 50,
+  "fetched_at": "2026-07-27T15:08:51.316729+00:00",
+  "count": 51,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -176,11 +176,20 @@
     },
     {
       "zona": "Castilla y León Ávila",
+      "carretera": "AV-561",
+      "pk_ini": "0.0",
+      "pk_fin": "11.73",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS El Hoyo de Pinares",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
       "carretera": "AV-562",
       "pk_ini": "0.1",
       "pk_fin": "14.12",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cebreros - El Quexigal",
+      "localizacion": "CRECIENTE DE LA Cebreros - El Quexigal",
       "nivel": "NEGRO"
     },
     {
@@ -206,8 +215,8 @@
       "carretera": "AV-902",
       "pk_ini": "8.0",
       "pk_fin": "20.67",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Navaluenga - La Rinconada",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Navaluenga - La Rinconada",
       "nivel": "NEGRO"
     },
     {
@@ -248,11 +257,20 @@
     },
     {
       "zona": "Castilla y León Ávila",
+      "carretera": "CL-505",
+      "pk_ini": "37.5",
+      "pk_fin": "42.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN CRECIENTE DE LA Las Navas del Marqués",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Ávila",
       "carretera": "N-403",
       "pk_ini": "83.0",
       "pk_fin": "100.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Las Cruceras",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Las Cruceras",
       "nivel": "NEGRO"
     },
     {
@@ -311,20 +329,11 @@
     },
     {
       "zona": "Madrid - Toledo",
-      "carretera": "M-507",
-      "pk_ini": "28.0",
-      "pk_fin": "36.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Parque Romillo",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid - Toledo",
       "carretera": "M-540",
       "pk_ini": "1.0",
       "pk_fin": "6.8",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
+      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Cruz Verde",
       "nivel": "NEGRO"
     },
     {
@@ -339,19 +348,19 @@
     {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-501",
-      "pk_ini": "40.0",
+      "pk_ini": "33.0",
       "pk_fin": "72.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla y León AMBOS SENTIDOS Navas del Rey - Venta del Cojo",
+      "localizacion": "Castilla y León AMBOS SENTIDOS Colmenar del Arroyo - Venta del Cojo",
       "nivel": "NEGRO"
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-507",
       "pk_ini": "18.0",
-      "pk_fin": "28.5",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Aldea del Fresno - Villa del Prado",
+      "pk_fin": "50.15",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Aldea del Fresno - Venta del Cojo",
       "nivel": "NEGRO"
     },
     {
@@ -359,26 +368,17 @@
       "carretera": "M-510",
       "pk_ini": "20.5",
       "pk_fin": "53.9",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Valdemorillo - Dehesa de Hernán Vicente",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Valdemorillo - Dehesa de Hernán Vicente",
       "nivel": "NEGRO"
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-512",
       "pk_ini": "0.0",
-      "pk_fin": "10.0",
+      "pk_fin": "22.09",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Robledondo - Robledo de Chavela",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-512",
-      "pk_ini": "10.5",
-      "pk_fin": "20.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Robledo de Chavela",
+      "localizacion": "CRECIENTE DE LA Robledondo - Navas del Rey",
       "nivel": "NEGRO"
     },
     {
@@ -386,8 +386,8 @@
       "carretera": "M-521",
       "pk_ini": "6.0",
       "pk_fin": "16.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Quijorna - Navalagamella",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Quijorna - Navalagamella",
       "nivel": "NEGRO"
     },
     {
@@ -451,6 +451,15 @@
       "pk_fin": "5.75",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "San Martín de Valdeiglesias - Costa de Madrid",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "N-403",
+      "pk_ini": "70.97",
+      "pk_fin": "82.96",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "San Martín de Valdeiglesias",
       "nivel": "NEGRO"
     }
   ],
