@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-28T12:07:13.564554+00:00",
-  "count": 47,
+  "fetched_at": "2026-07-28T15:29:26.573202+00:00",
+  "count": 48,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -24,10 +24,10 @@
     {
       "zona": "Castilla - La Mancha Toledo",
       "carretera": "CM-543",
-      "pk_ini": "0.0",
+      "pk_ini": "4.0",
       "pk_fin": "9.28",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Escalona - Paredes de Escalona",
+      "localizacion": "Paredes de Escalona",
       "nivel": "NEGRO"
     },
     {
@@ -76,12 +76,30 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Castilla y León León",
+      "carretera": "LE-451",
+      "pk_ini": "37.0",
+      "pk_fin": "37.1",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Madrid, Comunidad de KILOMETRACIÓN CRECIENTE DE LA Escuredo RIELLO",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León León",
+      "carretera": "LE-451",
+      "pk_ini": "40.6",
+      "pk_fin": "40.5",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN DECRECIENTE DE Paladín ASTORGA",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-502",
       "pk_ini": "0.0",
       "pk_fin": "31.48",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de KILOMETRACIÓN AMBOS SENTIDOS Navalperal de Pinares - La Atalaya",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Navalperal de Pinares - La Atalaya",
       "nivel": "NEGRO"
     },
     {
@@ -149,20 +167,11 @@
     },
     {
       "zona": "Castilla y León Ávila",
-      "carretera": "AV-902",
-      "pk_ini": "8.0",
-      "pk_fin": "20.67",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Navaluenga - La Rinconada",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
       "carretera": "AV-904",
       "pk_ini": "0.0",
       "pk_fin": "2.9",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Atalaya - Cerro Guisando",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Cerro Guisando",
       "nivel": "NEGRO"
     },
     {
