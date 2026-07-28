@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-28T06:36:44.034161+00:00",
-  "count": 50,
+  "fetched_at": "2026-07-28T09:42:59.429334+00:00",
+  "count": 47,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -167,20 +167,11 @@
     },
     {
       "zona": "Castilla y León Ávila AV-",
-      "carretera": "P-308",
-      "pk_ini": "8.8",
-      "pk_fin": "0.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "DECRECIENTE DE Peguerinos - Las Navas del Marqués",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila AV-",
       "carretera": "P-310",
       "pk_ini": "1.74",
       "pk_fin": "2.34",
       "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN CRECIENTE DE LA Hoyo de la Guija",
+      "localizacion": "CRECIENTE DE LA Hoyo de la Guija",
       "nivel": "NEGRO"
     },
     {
@@ -212,29 +203,11 @@
     },
     {
       "zona": "Castilla y León Ávila",
-      "carretera": "CL-505",
-      "pk_ini": "29.7",
-      "pk_fin": "35.7",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Navalperal de Pinares - La Estación",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "CL-505",
-      "pk_ini": "37.5",
-      "pk_fin": "42.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Las Navas del Marqués",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
       "carretera": "N-403",
       "pk_ini": "83.0",
       "pk_fin": "100.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Atalaya - Las Cruceras",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Las Cruceras",
       "nivel": "NEGRO"
     },
     {
