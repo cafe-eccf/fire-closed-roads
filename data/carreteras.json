@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-28T19:47:50.617900+00:00",
-  "count": 30,
+  "fetched_at": "2026-07-28T21:18:06.696609+00:00",
+  "count": 28,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -24,19 +24,10 @@
     {
       "zona": "Castilla y León León",
       "carretera": "LE-451",
-      "pk_ini": "37.0",
-      "pk_fin": "37.1",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Escuredo RIELLO",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León León",
-      "carretera": "LE-451",
       "pk_ini": "40.6",
-      "pk_fin": "40.5",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN DECRECIENTE DE Paladín ASTORGA",
+      "pk_fin": "37.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Paladín - Escuredo",
       "nivel": "NEGRO"
     },
     {
@@ -44,8 +35,8 @@
       "carretera": "AV-502",
       "pk_ini": "0.0",
       "pk_fin": "31.48",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Navalperal de Pinares - La Atalaya",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Navalperal de Pinares - La Atalaya",
       "nivel": "NEGRO"
     },
     {
@@ -220,21 +211,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Madrid - Toledo",
-      "carretera": "M-507",
-      "pk_ini": "28.8",
-      "pk_fin": "36.5",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Parque Romillo",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Madrid - Ávila",
       "carretera": "M-539",
       "pk_ini": "0.0",
       "pk_fin": "6.1",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla - La Mancha Madrid, Comunidad de - AMBOS SENTIDOS Robledo de Chavela - El Quexigal",
+      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Robledo de Chavela - El Quexigal",
       "nivel": "NEGRO"
     },
     {
