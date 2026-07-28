@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-28T21:18:06.696609+00:00",
+  "fetched_at": "2026-07-28T23:17:15.972680+00:00",
   "count": 28,
   "roads": [
     {
@@ -231,10 +231,10 @@
     {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-521",
-      "pk_ini": "16.0",
+      "pk_ini": "23.0",
       "pk_fin": "29.76",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Navalagamella - Robledo de Chavela",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Fresnedillas de la Oliva - Robledo de Chavela",
       "nivel": "NEGRO"
     },
     {
