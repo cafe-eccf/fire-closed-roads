@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-28T17:43:12.552145+00:00",
-  "count": 37,
+  "fetched_at": "2026-07-28T19:47:50.617900+00:00",
+  "count": 30,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -223,7 +223,7 @@
       "zona": "Madrid - Toledo",
       "carretera": "M-507",
       "pk_ini": "28.8",
-      "pk_fin": "35.5",
+      "pk_fin": "36.5",
       "sentido": "DESCONOCIDO",
       "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Parque Romillo",
       "nivel": "NEGRO"
@@ -239,20 +239,11 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-505",
-      "pk_ini": "36.0",
-      "pk_fin": "47.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla y León AMBOS SENTIDOS Robledondo - Valdemaqueda",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-512",
       "pk_ini": "0.0",
-      "pk_fin": "22.09",
+      "pk_fin": "19.1",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Robledondo - Navas del Rey",
+      "localizacion": "Castilla y León CRECIENTE DE LA Robledondo - Robledo de Chavela",
       "nivel": "NEGRO"
     },
     {
@@ -266,42 +257,6 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-531",
-      "pk_ini": "0.0",
-      "pk_fin": "8.81",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Colmenar del Arroyo - Robledo de Chavela",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-532",
-      "pk_ini": "0.0",
-      "pk_fin": "13.14",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Peralejo - Valle del Sol",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-533",
-      "pk_ini": "0.0",
-      "pk_fin": "10.5",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA El Alcor - Zarzalejo",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-535",
-      "pk_ini": "0.0",
-      "pk_fin": "10.73",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS La Cereda - Santa María de la Alameda",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-537",
       "pk_ini": "0.0",
       "pk_fin": "2.0",
@@ -311,29 +266,11 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-538",
-      "pk_ini": "0.0",
-      "pk_fin": "6.8",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Santa María de la Alameda - La Paradilla",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-541",
-      "pk_ini": "0.0",
-      "pk_fin": "6.4",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Pelayos de la Presa - San Martín de AMBOS SENTIDOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-957",
       "pk_ini": "0.0",
       "pk_fin": "5.75",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Valdeiglesias AMBOS SENTIDOS San Martín de Valdeiglesias - Costa de Madrid",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "San Martín de Valdeiglesias - Costa de Madrid",
       "nivel": "NEGRO"
     }
   ],
