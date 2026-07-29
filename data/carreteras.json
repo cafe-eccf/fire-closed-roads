@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-29T03:31:50.226436+00:00",
-  "count": 27,
+  "fetched_at": "2026-07-29T06:41:55.040501+00:00",
+  "count": 26,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -202,12 +202,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Madrid - Ávila",
-      "carretera": "M-539",
-      "pk_ini": "0.0",
-      "pk_fin": "6.1",
+      "zona": "Madrid - Toledo",
+      "carretera": "M-507",
+      "pk_ini": "28.8",
+      "pk_fin": "36.5",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Robledo de Chavela - El Quexigal",
+      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Parque Romillo",
       "nivel": "NEGRO"
     },
     {
@@ -216,7 +216,7 @@
       "pk_ini": "0.0",
       "pk_fin": "19.1",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla y León CRECIENTE DE LA Robledondo - Robledo de Chavela",
+      "localizacion": "Castilla - La Mancha CRECIENTE DE LA Robledondo - Robledo de Chavela",
       "nivel": "NEGRO"
     },
     {
@@ -226,15 +226,6 @@
       "pk_fin": "29.76",
       "sentido": "DESCONOCIDO",
       "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Fresnedillas de la Oliva - Robledo de Chavela",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-537",
-      "pk_ini": "0.0",
-      "pk_fin": "2.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Robledo de Chavela",
       "nivel": "NEGRO"
     },
     {
