@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-29T06:41:55.040501+00:00",
-  "count": 26,
+  "fetched_at": "2026-07-29T09:46:09.451521+00:00",
+  "count": 25,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -134,8 +134,8 @@
       "carretera": "CL-501",
       "pk_ini": "34.0",
       "pk_fin": "11.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "DECRECIENTE DE Casavieja - Santa María del Tiétar MADRID",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Casavieja - Santa María del Tiétar",
       "nivel": "NEGRO"
     },
     {
@@ -143,8 +143,8 @@
       "carretera": "N-403",
       "pk_ini": "83.0",
       "pk_fin": "100.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Las Cruceras",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "La Atalaya - Las Cruceras",
       "nivel": "NEGRO"
     },
     {
@@ -202,21 +202,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Madrid - Toledo",
-      "carretera": "M-507",
-      "pk_ini": "28.8",
-      "pk_fin": "36.5",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de - AMBOS SENTIDOS Villa del Prado - Parque Romillo",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-512",
       "pk_ini": "0.0",
       "pk_fin": "19.1",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Castilla - La Mancha CRECIENTE DE LA Robledondo - Robledo de Chavela",
+      "localizacion": "CRECIENTE DE LA Robledondo - Robledo de Chavela",
       "nivel": "NEGRO"
     },
     {
@@ -224,8 +215,8 @@
       "carretera": "M-521",
       "pk_ini": "23.0",
       "pk_fin": "29.76",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Fresnedillas de la Oliva - Robledo de Chavela",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Fresnedillas de la Oliva - Robledo de Chavela",
       "nivel": "NEGRO"
     },
     {
