@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-29T12:12:57.365482+00:00",
-  "count": 28,
+  "fetched_at": "2026-07-29T15:17:14.195642+00:00",
+  "count": 17,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -22,129 +22,30 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-502",
-      "pk_ini": "0.0",
-      "pk_fin": "31.48",
+      "zona": "Castilla y León Zamora",
+      "carretera": "CL-527",
+      "pk_ini": "55.0",
+      "pk_fin": "72.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Navalperal de Pinares - La Atalaya",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-503",
-      "pk_ini": "25.5",
-      "pk_fin": "39.06",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA San Bartolomé de Pinares - Cebreros",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-504",
-      "pk_ini": "0.1",
-      "pk_fin": "6.44",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cebreros - Poblado de Burguillo",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-512",
-      "pk_ini": "0.1",
-      "pk_fin": "6.62",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cebreros - El Tiemblo",
+      "localizacion": "Cibanal - Fermoselle limite con Portugal",
       "nivel": "NEGRO"
     },
     {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-561",
-      "pk_ini": "0.0",
+      "pk_ini": "1.8",
       "pk_fin": "11.73",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS El Hoyo de Pinares",
+      "localizacion": "CRECIENTE DE LA El Hoyo de Pinares L.P. MADRID",
       "nivel": "NEGRO"
     },
     {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-562",
-      "pk_ini": "0.1",
+      "pk_ini": "0.0",
       "pk_fin": "14.12",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Cebreros - El Quexigal",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-901",
-      "pk_ini": "1.36",
-      "pk_fin": "43.5",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Burgohondo - Casavieja",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-902",
-      "pk_ini": "0.0",
-      "pk_fin": "6.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Burgohondo - El Quejigo",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-904",
-      "pk_ini": "0.0",
-      "pk_fin": "2.9",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS La Atalaya - Cerro Guisando",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila AV-",
-      "carretera": "P-310",
-      "pk_ini": "1.74",
-      "pk_fin": "2.34",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Hoyo de la Guija",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila AV-",
-      "carretera": "P-703",
-      "pk_ini": "0.2",
-      "pk_fin": "4.79",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Sotillo de la Adrada - Casillas",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila AV-",
-      "carretera": "P-705",
-      "pk_ini": "0.0",
-      "pk_fin": "11.4",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Mijares - Gavilanes",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "CL-501",
-      "pk_ini": "34.0",
-      "pk_fin": "11.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Casavieja - Santa María del Tiétar",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "N-403",
-      "pk_ini": "83.0",
-      "pk_fin": "100.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Atalaya - Las Cruceras",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cebreros - El Quexigal L.P. MADRID",
       "nivel": "NEGRO"
     },
     {
@@ -152,8 +53,8 @@
       "carretera": "TV-2041",
       "pk_ini": "11.0",
       "pk_fin": "15.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Bonastre",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Bonastre",
       "nivel": "NEGRO"
     },
     {
@@ -221,11 +122,11 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-203",
-      "pk_ini": "16.5",
-      "pk_fin": "21.5",
+      "carretera": "M-224",
+      "pk_ini": "22.6",
+      "pk_fin": "27.6",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Soto de Aldovea - Soto de la Ciudad y Gerafin",
+      "localizacion": "San Isidro - Coto Baezuela",
       "nivel": "NEGRO"
     },
     {
