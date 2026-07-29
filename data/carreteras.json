@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-29T15:17:14.195642+00:00",
-  "count": 17,
+  "fetched_at": "2026-07-29T17:24:53.969773+00:00",
+  "count": 18,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -22,6 +22,24 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Castilla y León León",
+      "carretera": "N-621",
+      "pk_ini": "21.0",
+      "pk_fin": "25.2",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Santa María del Monte Condado - Barrio de AMBOS SENTIDOS BOÑAR",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Salamanca",
+      "carretera": "SA-316",
+      "pk_ini": "0.3",
+      "pk_fin": "7.7",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Nuestra Señora AMBOS SENTIDOS Trabanca AMBOS SENTIDOS",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Castilla y León Zamora",
       "carretera": "CL-527",
       "pk_ini": "55.0",
@@ -31,12 +49,30 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Castilla y León Zamora ZA-",
+      "carretera": "P-2221",
+      "pk_ini": "0.0",
+      "pk_fin": "5.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Cibanal - Fornillos de Fermoselle Fornillo de fermoselle",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Zamora ZA-",
+      "carretera": "P-2222",
+      "pk_ini": "0.0",
+      "pk_fin": "9.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cibanal - Palazuelo de Sayago za-324",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-561",
       "pk_ini": "1.8",
       "pk_fin": "11.73",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA El Hoyo de Pinares L.P. MADRID",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA El Hoyo de Pinares L.P. MADRID",
       "nivel": "NEGRO"
     },
     {
@@ -49,30 +85,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Cataluña Tarragona",
-      "carretera": "TV-2041",
-      "pk_ini": "11.0",
-      "pk_fin": "15.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Bonastre",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Cataluña Tarragona",
-      "carretera": "TV-2042",
-      "pk_ini": "1.0",
-      "pk_fin": "7.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "L'Esplai del Penedès - Masllorenç",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-200",
       "pk_ini": "8.0",
       "pk_fin": "19.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Almedíjar - Aín",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Almedíjar - Aín",
       "nivel": "NEGRO"
     },
     {
@@ -118,15 +136,6 @@
       "pk_fin": "19.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "Comunitat Valenciana Castelló/Castellón CV-2261 (ENLACE) 0.04 0.0 AMBOS SENTIDOS la Vall d'Uixó VALL D'UXO NEGRO AMBOS SENTIDOS Azuébar - la Vall d'Uixó",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-224",
-      "pk_ini": "22.6",
-      "pk_fin": "27.6",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "San Isidro - Coto Baezuela",
       "nivel": "NEGRO"
     },
     {
