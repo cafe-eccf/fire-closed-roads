@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-29T17:24:53.969773+00:00",
-  "count": 18,
+  "fetched_at": "2026-07-29T19:39:01.332572+00:00",
+  "count": 16,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -140,29 +140,11 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-512",
+      "carretera": "M-213",
       "pk_ini": "0.0",
-      "pk_fin": "19.1",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Robledondo - Robledo de Chavela",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-521",
-      "pk_ini": "23.0",
-      "pk_fin": "29.76",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Fresnedillas de la Oliva - Robledo de Chavela",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-957",
-      "pk_ini": "0.0",
-      "pk_fin": "5.75",
+      "pk_fin": "0.5",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "San Martín de Valdeiglesias - Costa de Madrid",
+      "localizacion": "El Gurugú",
       "nivel": "NEGRO"
     }
   ],
