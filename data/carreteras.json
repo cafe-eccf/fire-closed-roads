@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-29T09:46:09.451521+00:00",
-  "count": 25,
+  "fetched_at": "2026-07-29T12:12:57.365482+00:00",
+  "count": 28,
   "roads": [
     {
       "zona": "Castilla - La Mancha Toledo",
@@ -148,6 +148,24 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Cataluña Tarragona",
+      "carretera": "TV-2041",
+      "pk_ini": "11.0",
+      "pk_fin": "15.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Bonastre",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Cataluña Tarragona",
+      "carretera": "TV-2042",
+      "pk_ini": "1.0",
+      "pk_fin": "7.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "L'Esplai del Penedès - Masllorenç",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-200",
       "pk_ini": "8.0",
@@ -203,6 +221,15 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-203",
+      "pk_ini": "16.5",
+      "pk_fin": "21.5",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Soto de Aldovea - Soto de la Ciudad y Gerafin",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-512",
       "pk_ini": "0.0",
       "pk_fin": "19.1",
@@ -215,8 +242,8 @@
       "carretera": "M-521",
       "pk_ini": "23.0",
       "pk_fin": "29.76",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Fresnedillas de la Oliva - Robledo de Chavela",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Fresnedillas de la Oliva - Robledo de Chavela",
       "nivel": "NEGRO"
     },
     {
