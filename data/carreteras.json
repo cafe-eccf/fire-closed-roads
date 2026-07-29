@@ -1,33 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-29T19:39:01.332572+00:00",
-  "count": 16,
+  "fetched_at": "2026-07-29T21:09:19.450204+00:00",
+  "count": 13,
   "roads": [
-    {
-      "zona": "Castilla - La Mancha Toledo",
-      "carretera": "CM-5006",
-      "pk_ini": "20.0",
-      "pk_fin": "25.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS La Iglesuela del Tiétar",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Toledo",
-      "carretera": "CM-5053",
-      "pk_ini": "0.0",
-      "pk_fin": "4.7",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Iglesuela del Tiétar",
-      "nivel": "NEGRO"
-    },
     {
       "zona": "Castilla y León León",
       "carretera": "N-621",
       "pk_ini": "21.0",
       "pk_fin": "25.2",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Santa María del Monte Condado - Barrio de AMBOS SENTIDOS BOÑAR",
+      "localizacion": ". Santa María del Monte Condado - Barrio de AMBOS SENTIDOS BOÑAR",
       "nivel": "NEGRO"
     },
     {
@@ -49,12 +31,21 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Castilla y León Zamora",
+      "carretera": "ZA-316",
+      "pk_ini": "0.0",
+      "pk_fin": "6.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Fermoselle FERMOSELLE",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Castilla y León Zamora ZA-",
       "carretera": "P-2221",
       "pk_ini": "0.0",
       "pk_fin": "5.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Cibanal - Fornillos de Fermoselle Fornillo de fermoselle",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cibanal - Fornillos de Fermoselle Fornillo de fermoselle",
       "nivel": "NEGRO"
     },
     {
@@ -67,21 +58,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-561",
-      "pk_ini": "1.8",
-      "pk_fin": "11.73",
+      "zona": "Castilla y León Zamora ZA-",
+      "carretera": "P-2226",
+      "pk_ini": "7.0",
+      "pk_fin": "14.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA El Hoyo de Pinares L.P. MADRID",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-562",
-      "pk_ini": "0.0",
-      "pk_fin": "14.12",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cebreros - El Quexigal L.P. MADRID",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Muga de Sayago - Fariza de Sayago",
       "nivel": "NEGRO"
     },
     {
@@ -89,8 +71,8 @@
       "carretera": "CV-200",
       "pk_ini": "8.0",
       "pk_fin": "19.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Almedíjar - Aín",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Almedíjar - Aín",
       "nivel": "NEGRO"
     },
     {
@@ -136,15 +118,6 @@
       "pk_fin": "19.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "Comunitat Valenciana Castelló/Castellón CV-2261 (ENLACE) 0.04 0.0 AMBOS SENTIDOS la Vall d'Uixó VALL D'UXO NEGRO AMBOS SENTIDOS Azuébar - la Vall d'Uixó",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-213",
-      "pk_ini": "0.0",
-      "pk_fin": "0.5",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "El Gurugú",
       "nivel": "NEGRO"
     }
   ],
