@@ -1,12 +1,12 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-30T09:36:51.400039+00:00",
+  "fetched_at": "2026-07-30T12:00:33.576069+00:00",
   "count": 10,
   "roads": [
     {
       "zona": "Castilla y León Zamora",
       "carretera": "CL-527",
-      "pk_ini": "55.0",
+      "pk_ini": "53.0",
       "pk_fin": "72.0",
       "sentido": "DESCONOCIDO",
       "localizacion": ". AMBOS SENTIDOS Cibanal - Fermoselle limite con Portugal",
@@ -51,19 +51,19 @@
     {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-203",
-      "pk_ini": "0.0",
+      "pk_ini": "10.0",
       "pk_fin": "29.34",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Ayódar - Caudiel",
+      "localizacion": "Torralba del Pinar - Caudiel",
       "nivel": "NEGRO"
     },
     {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-205",
       "pk_ini": "0.0",
-      "pk_fin": "16.9",
+      "pk_fin": "5.6",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Tales - Fuentes de Ayódar",
+      "localizacion": "Tales - Sueras/Suera",
       "nivel": "NEGRO"
     },
     {
