@@ -1,15 +1,24 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-30T12:00:33.576069+00:00",
-  "count": 10,
+  "fetched_at": "2026-07-30T14:27:28.843418+00:00",
+  "count": 11,
   "roads": [
+    {
+      "zona": "Castilla y León Burgos",
+      "carretera": "N-232",
+      "pk_ini": "483.0",
+      "pk_fin": "483.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Cubo de Bureba",
+      "nivel": "NEGRO"
+    },
     {
       "zona": "Castilla y León Zamora",
       "carretera": "CL-527",
       "pk_ini": "53.0",
       "pk_fin": "72.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Cibanal - Fermoselle limite con Portugal",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Cibanal - Fermoselle limite con Portugal",
       "nivel": "NEGRO"
     },
     {
