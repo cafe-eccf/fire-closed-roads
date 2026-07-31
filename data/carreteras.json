@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-31T04:33:22.416061+00:00",
-  "count": 9,
+  "fetched_at": "2026-07-31T08:07:11.708295+00:00",
+  "count": 8,
   "roads": [
     {
       "zona": "Castilla y León Zamora",
@@ -42,7 +42,7 @@
     {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-200",
-      "pk_ini": "8.0",
+      "pk_ini": "6.0",
       "pk_fin": "19.0",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Almedíjar - Aín",
@@ -52,15 +52,15 @@
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-205",
       "pk_ini": "0.0",
-      "pk_fin": "5.6",
+      "pk_fin": "2.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Tales - Sueras/Suera",
+      "localizacion": "Tales - Sueras/Suera AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-219",
-      "pk_ini": "0.0",
+      "pk_ini": "3.0",
       "pk_fin": "13.55",
       "sentido": "DESCONOCIDO",
       "localizacion": "DECRECIENTE DE Comunitat Valenciana Castelló/Castellón CV-215 (SALIDA) 10.7 0.0 Algimia de Almonacid - Alcudia de Veo SENTIDO ALCUDIA DE VEO NEGRO LA KILOMETRACIÓN AMBOS SENTIDOS Chóvar - Eslida",
@@ -73,15 +73,6 @@
       "pk_fin": "32.0",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Nules - Onda AMBOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Comunitat Valenciana Castelló/Castellón",
-      "carretera": "CV-230",
-      "pk_ini": "6.0",
-      "pk_fin": "19.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Comunitat Valenciana Castelló/Castellón CV-2261 (ENLACE) 0.04 0.0 AMBOS SENTIDOS la Vall d'Uixó VALL D'UXO NEGRO AMBOS SENTIDOS Azuébar - la Vall d'Uixó",
       "nivel": "NEGRO"
     }
   ],
