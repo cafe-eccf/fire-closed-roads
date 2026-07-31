@@ -1,78 +1,69 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-31T08:07:11.708295+00:00",
-  "count": 8,
+  "fetched_at": "2026-07-31T11:34:07.472261+00:00",
+  "count": 7,
   "roads": [
     {
       "zona": "Castilla y León Zamora",
-      "carretera": "CL-527",
-      "pk_ini": "53.0",
-      "pk_fin": "72.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Cibanal - Fermoselle limite con Portugal",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Zamora ZA-",
-      "carretera": "P-2221",
+      "carretera": "ZA-316",
       "pk_ini": "0.0",
-      "pk_fin": "5.0",
+      "pk_fin": "6.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Cibanal - Fornillos de Fermoselle Fornillo de fermoselle",
+      "localizacion": ". CRECIENTE DE LA LIMITE PROVINCIA CON Fermoselle",
       "nivel": "NEGRO"
     },
     {
       "zona": "Castilla y León Zamora ZA-",
-      "carretera": "P-2222",
+      "carretera": "L-2218",
       "pk_ini": "0.0",
-      "pk_fin": "9.0",
+      "pk_fin": "3.7",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Cibanal - Palazuelo de Sayago za-324",
+      "localizacion": "KILOMETRACIÓN SALAMANCA AMBOS SENTIDOS Fariza de Sayago - Mámoles Mámoles",
       "nivel": "NEGRO"
     },
     {
-      "zona": "Castilla y León Zamora ZA-",
-      "carretera": "P-2226",
-      "pk_ini": "7.0",
-      "pk_fin": "14.0",
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-562",
+      "pk_ini": "0.0",
+      "pk_fin": "14.12",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Muga de Sayago - Fariza de Sayago",
+      "localizacion": "CRECIENTE DE LA Cebreros - El Quexigal",
       "nivel": "NEGRO"
     },
     {
-      "zona": "Comunitat Valenciana Castelló/Castellón",
-      "carretera": "CV-200",
-      "pk_ini": "6.0",
-      "pk_fin": "19.0",
+      "zona": "Cataluña Barcelona",
+      "carretera": "BV-4241",
+      "pk_ini": "19.0",
+      "pk_fin": "20.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Castellar del Riu",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Cataluña Barcelona",
+      "carretera": "C-26",
+      "pk_ini": "119.0",
+      "pk_fin": "120.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Almedíjar - Aín",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Comunitat Valenciana Castelló/Castellón",
-      "carretera": "CV-205",
-      "pk_ini": "0.0",
-      "pk_fin": "2.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Tales - Sueras/Suera AMBOS SENTIDOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Comunitat Valenciana Castelló/Castellón",
-      "carretera": "CV-219",
-      "pk_ini": "3.0",
-      "pk_fin": "13.55",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "DECRECIENTE DE Comunitat Valenciana Castelló/Castellón CV-215 (SALIDA) 10.7 0.0 Algimia de Almonacid - Alcudia de Veo SENTIDO ALCUDIA DE VEO NEGRO LA KILOMETRACIÓN AMBOS SENTIDOS Chóvar - Eslida",
+      "localizacion": "Montmajor",
       "nivel": "NEGRO"
     },
     {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-223",
-      "pk_ini": "0.0",
-      "pk_fin": "32.0",
+      "pk_ini": "5.0",
+      "pk_fin": "10.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Nules - Onda AMBOS",
+      "localizacion": "Artana - Eslida AMBOS",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid - Ávila",
+      "carretera": "M-539",
+      "pk_ini": "0.0",
+      "pk_fin": "6.13",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Madrid, Comunidad de - CRECIENTE DE LA Robledo de Chavela - El Quexigal",
       "nivel": "NEGRO"
     }
   ],
