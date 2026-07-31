@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-31T14:29:32.267386+00:00",
-  "count": 6,
+  "fetched_at": "2026-07-31T16:52:37.578286+00:00",
+  "count": 5,
   "roads": [
     {
       "zona": "Castilla y León Zamora",
@@ -31,30 +31,21 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Castilla y León - Galicia León - Lugo",
-      "carretera": "A-6",
-      "pk_ini": "419.0",
-      "pk_fin": "433.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA La Portela de Valcarce - San Pedro A CORUÑA",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Comunitat Valenciana Castelló/Castellón",
-      "carretera": "CV-223",
-      "pk_ini": "5.0",
-      "pk_fin": "10.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Artana - Eslida AMBOS",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Madrid - Ávila",
       "carretera": "M-539",
       "pk_ini": "0.0",
       "pk_fin": "6.13",
       "sentido": "DESCONOCIDO",
-      "localizacion": "Madrid, Comunidad de - CRECIENTE DE LA Robledo de Chavela - El Quexigal",
+      "localizacion": "KILOMETRACIÓN Madrid, Comunidad de - CRECIENTE DE LA Robledo de Chavela - El Quexigal",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-957",
+      "pk_ini": "0.0",
+      "pk_fin": "5.7",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castilla y León KILOMETRACIÓN AMBOS SENTIDOS San Martín de Valdeiglesias - Costa de Madrid",
       "nivel": "NEGRO"
     }
   ],
