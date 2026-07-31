@@ -1,33 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-31T16:52:37.578286+00:00",
-  "count": 5,
+  "fetched_at": "2026-07-31T18:41:23.186601+00:00",
+  "count": 3,
   "roads": [
-    {
-      "zona": "Castilla y León Zamora",
-      "carretera": "ZA-316",
-      "pk_ini": "0.0",
-      "pk_fin": "6.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". CRECIENTE DE LA LIMITE PROVINCIA CON Fermoselle",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Zamora ZA-",
-      "carretera": "L-2218",
-      "pk_ini": "0.0",
-      "pk_fin": "3.7",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN SALAMANCA AMBOS SENTIDOS Fariza de Sayago - Mámoles Mámoles",
-      "nivel": "NEGRO"
-    },
     {
       "zona": "Castilla y León Ávila",
       "carretera": "AV-562",
       "pk_ini": "0.0",
       "pk_fin": "14.12",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Cebreros - El Quexigal",
+      "localizacion": ". CRECIENTE DE LA Cebreros - El Quexigal",
       "nivel": "NEGRO"
     },
     {
