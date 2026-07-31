@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-07-31T11:34:07.472261+00:00",
-  "count": 7,
+  "fetched_at": "2026-07-31T14:29:32.267386+00:00",
+  "count": 6,
   "roads": [
     {
       "zona": "Castilla y León Zamora",
@@ -31,21 +31,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Cataluña Barcelona",
-      "carretera": "BV-4241",
-      "pk_ini": "19.0",
-      "pk_fin": "20.0",
+      "zona": "Castilla y León - Galicia León - Lugo",
+      "carretera": "A-6",
+      "pk_ini": "419.0",
+      "pk_fin": "433.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Castellar del Riu",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Cataluña Barcelona",
-      "carretera": "C-26",
-      "pk_ini": "119.0",
-      "pk_fin": "120.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Montmajor",
+      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA La Portela de Valcarce - San Pedro A CORUÑA",
       "nivel": "NEGRO"
     },
     {
@@ -53,8 +44,8 @@
       "carretera": "CV-223",
       "pk_ini": "5.0",
       "pk_fin": "10.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Artana - Eslida AMBOS",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Artana - Eslida AMBOS",
       "nivel": "NEGRO"
     },
     {
