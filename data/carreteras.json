@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-01T12:09:18.064274+00:00",
-  "count": 3,
+  "fetched_at": "2026-08-01T14:39:13.438603+00:00",
+  "count": 5,
   "roads": [
     {
       "zona": "Castilla y León Ávila",
@@ -13,12 +13,30 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Cataluña Tarragona",
+      "carretera": "TV-2421",
+      "pk_ini": "3.0",
+      "pk_fin": "2.5",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Montblanc",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Galicia Lugo",
+      "carretera": "A-8",
+      "pk_ini": "552.0",
+      "pk_fin": "536.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "DECRECIENTE DE O Someiro - Arroxo",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Madrid - Ávila",
       "carretera": "M-539",
       "pk_ini": "0.0",
       "pk_fin": "6.13",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN Madrid, Comunidad de - CRECIENTE DE LA Robledo de Chavela - El Quexigal",
+      "localizacion": "LA KILOMETRACIÓN Madrid, Comunidad de - CRECIENTE DE LA Robledo de Chavela - El Quexigal",
       "nivel": "NEGRO"
     },
     {
