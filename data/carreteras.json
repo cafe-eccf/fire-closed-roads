@@ -1,15 +1,24 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-02T07:38:58.442858+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-02T10:05:43.416833+00:00",
+  "count": 3,
   "roads": [
+    {
+      "zona": "Castilla y León Ávila",
+      "carretera": "AV-562",
+      "pk_ini": "0.0",
+      "pk_fin": "14.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Cebreros - El Quexigal",
+      "nivel": "NEGRO"
+    },
     {
       "zona": "Extremadura Cáceres",
       "carretera": "CC-167",
       "pk_ini": "0.0",
       "pk_fin": "2.8",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Casas de Millán CASAS DE MILLÁN",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Casas de Millán CASAS DE MILLÁN",
       "nivel": "NEGRO"
     },
     {
