@@ -1,15 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-02T16:10:07.732610+00:00",
+  "fetched_at": "2026-08-02T18:08:17.897668+00:00",
   "count": 3,
   "roads": [
     {
-      "zona": "Castilla y León Ávila",
-      "carretera": "AV-562",
-      "pk_ini": "0.0",
-      "pk_fin": "14.0",
+      "zona": "Andalucía Sevilla",
+      "carretera": "A-8028",
+      "pk_ini": "1.0",
+      "pk_fin": "1.9",
       "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Cebreros - El Quexigal",
+      "localizacion": ". AMBOS SENTIDOS Sevilla - El Acebuchal",
       "nivel": "NEGRO"
     },
     {
