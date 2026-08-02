@@ -1,15 +1,24 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-02T20:15:28.878816+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-02T22:05:38.526719+00:00",
+  "count": 3,
   "roads": [
+    {
+      "zona": "Andalucía Cádiz",
+      "carretera": "A-7",
+      "pk_ini": "1119.0",
+      "pk_fin": "1119.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". DECRECIENTE DE Algeciras",
+      "nivel": "NO APLICA"
+    },
     {
       "zona": "Extremadura Cáceres",
       "carretera": "CC-167",
       "pk_ini": "0.0",
       "pk_fin": "2.8",
       "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Casas de Millán CASAS DE MILLÁN",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Casas de Millán CASAS DE MILLÁN",
       "nivel": "NEGRO"
     },
     {
