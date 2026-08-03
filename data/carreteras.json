@@ -1,15 +1,24 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-03T08:38:59.610336+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-03T12:34:20.086293+00:00",
+  "count": 3,
   "roads": [
+    {
+      "zona": "Canarias Santa Cruz de Tenerife",
+      "carretera": "TF-436",
+      "pk_ini": "10.6",
+      "pk_fin": "22.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Las Portelas - Santiago del Teide AMBOS SENTIDOS",
+      "nivel": "NO APLICA"
+    },
     {
       "zona": "Extremadura Cáceres",
       "carretera": "CC-167",
       "pk_ini": "0.0",
       "pk_fin": "2.8",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Casas de Millán CASAS DE MILLÁN",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Casas de Millán CASAS DE MILLÁN",
       "nivel": "NEGRO"
     },
     {
