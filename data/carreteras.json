@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-04T19:51:32.959191+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-04T21:23:03.743274+00:00",
+  "count": 3,
   "roads": [
     {
       "zona": "Extremadura Cáceres",
@@ -14,11 +14,20 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "A-3",
+      "pk_ini": "33.0",
+      "pk_fin": "33.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "DECRECIENTE DE El Campillo MADRID",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-957",
       "pk_ini": "0.0",
       "pk_fin": "5.7",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "San Martín de Valdeiglesias - Costa de Madrid",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS San Martín de Valdeiglesias - Costa de Madrid",
       "nivel": "NEGRO"
     }
   ],
