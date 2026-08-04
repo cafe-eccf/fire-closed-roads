@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-04T21:23:03.743274+00:00",
+  "fetched_at": "2026-08-04T23:14:51.470298+00:00",
   "count": 3,
   "roads": [
     {
@@ -15,10 +15,10 @@
     {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "A-3",
-      "pk_ini": "33.0",
-      "pk_fin": "33.0",
+      "pk_ini": "30.0",
+      "pk_fin": "30.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "DECRECIENTE DE El Campillo MADRID",
+      "localizacion": "CRECIENTE DE LA Arganda del Rey MADRID",
       "nivel": "NEGRO"
     },
     {
@@ -27,7 +27,7 @@
       "pk_ini": "0.0",
       "pk_fin": "5.7",
       "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS San Martín de Valdeiglesias - Costa de Madrid",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS San Martín de Valdeiglesias - Costa de Madrid",
       "nivel": "NEGRO"
     }
   ],
