@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-05T09:43:49.840187+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-05T12:08:54.337731+00:00",
+  "count": 1,
   "roads": [
     {
       "zona": "Extremadura Cáceres",
@@ -10,15 +10,6 @@
       "pk_fin": "2.8",
       "sentido": "DESCONOCIDO",
       "localizacion": ". AMBOS SENTIDOS Casas de Millán CASAS DE MILLÁN",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-957",
-      "pk_ini": "0.0",
-      "pk_fin": "5.7",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "San Martín de Valdeiglesias - Costa de Madrid",
       "nivel": "NEGRO"
     }
   ],
