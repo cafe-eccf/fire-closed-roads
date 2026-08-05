@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-04T23:14:51.470298+00:00",
-  "count": 3,
+  "fetched_at": "2026-08-05T03:26:44.617077+00:00",
+  "count": 2,
   "roads": [
     {
       "zona": "Extremadura Cáceres",
@@ -14,20 +14,11 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "A-3",
-      "pk_ini": "30.0",
-      "pk_fin": "30.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Arganda del Rey MADRID",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-957",
       "pk_ini": "0.0",
       "pk_fin": "5.7",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS San Martín de Valdeiglesias - Costa de Madrid",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "San Martín de Valdeiglesias - Costa de Madrid",
       "nivel": "NEGRO"
     }
   ],
