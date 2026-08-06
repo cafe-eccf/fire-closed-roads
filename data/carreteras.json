@@ -1,17 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-06T06:41:33.981791+00:00",
-  "count": 1,
-  "roads": [
-    {
-      "zona": "Extremadura Cáceres",
-      "carretera": "CC-167",
-      "pk_ini": "0.0",
-      "pk_fin": "2.8",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Casas de Millán CASAS DE MILLÁN",
-      "nivel": "NEGRO"
-    }
-  ],
+  "fetched_at": "2026-08-06T09:47:17.657357+00:00",
+  "count": 0,
+  "roads": [],
   "unparsed_lines": []
 }
