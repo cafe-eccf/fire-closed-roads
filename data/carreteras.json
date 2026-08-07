@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-07T19:10:20.158001+00:00",
-  "count": 3,
+  "fetched_at": "2026-08-07T20:53:09.666564+00:00",
+  "count": 2,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -19,15 +19,6 @@
       "pk_fin": "20.8",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Niebla - La Florida AMBOS SENTIDOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Guadalajara",
-      "carretera": "GU-190",
-      "pk_ini": "5.0",
-      "pk_fin": "10.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Cañizar - Torre del Burgo",
       "nivel": "NEGRO"
     }
   ],
