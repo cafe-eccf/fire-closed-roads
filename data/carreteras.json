@@ -1,7 +1,17 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-07T13:26:13.858759+00:00",
-  "count": 0,
-  "roads": [],
+  "fetched_at": "2026-08-07T15:05:24.037739+00:00",
+  "count": 1,
+  "roads": [
+    {
+      "zona": "Andalucía Huelva",
+      "carretera": "HU-3106",
+      "pk_ini": "0.0",
+      "pk_fin": "20.8",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Niebla - La Florida AMBOS SENTIDOS",
+      "nivel": "NEGRO"
+    }
+  ],
   "unparsed_lines": []
 }
