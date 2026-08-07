@@ -1,15 +1,33 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-07T15:05:24.037739+00:00",
-  "count": 1,
+  "fetched_at": "2026-08-07T17:03:30.325519+00:00",
+  "count": 3,
   "roads": [
+    {
+      "zona": "Andalucía Huelva",
+      "carretera": "A-493",
+      "pk_ini": "4.5",
+      "pk_fin": "31.5",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS La Palma del Condado - Valverde del Camino AMBOS SENTIDOS",
+      "nivel": "NEGRO"
+    },
     {
       "zona": "Andalucía Huelva",
       "carretera": "HU-3106",
       "pk_ini": "0.0",
       "pk_fin": "20.8",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Niebla - La Florida AMBOS SENTIDOS",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Guadalajara",
+      "carretera": "GU-190",
+      "pk_ini": "5.0",
+      "pk_fin": "10.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Niebla - La Florida AMBOS SENTIDOS",
+      "localizacion": "CRECIENTE DE LA Cañizar - Torre del Burgo",
       "nivel": "NEGRO"
     }
   ],
