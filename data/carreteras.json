@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-08T20:43:16.380438+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-08T21:40:47.661042+00:00",
+  "count": 4,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -19,6 +19,24 @@
       "pk_fin": "20.8",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Niebla - La Florida AMBOS SENTIDOS",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Andalucía Huelva",
+      "carretera": "HU-4103",
+      "pk_ini": "0.0",
+      "pk_fin": "28.77",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "La Palma del Condado - Berrocal",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Andalucía Huelva",
+      "carretera": "HU-5104",
+      "pk_ini": "0.0",
+      "pk_fin": "15.5",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Membrillo Alto - Berrocal",
       "nivel": "NEGRO"
     }
   ],
