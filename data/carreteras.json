@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-08T16:48:08.432680+00:00",
-  "count": 4,
+  "fetched_at": "2026-08-08T17:40:58.381158+00:00",
+  "count": 3,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -22,21 +22,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Aragón Teruel",
-      "carretera": "TE-43",
-      "pk_ini": "8.0",
-      "pk_fin": "0.16",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "DECRECIENTE DE Molinos - La Mata de los Olmos",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Castilla y León Segovia",
       "carretera": "N-6",
       "pk_ini": "80.0",
       "pk_fin": "71.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Urbanización Coto de San Isidro - El Espinar AMBOS SENTIDOS",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Urbanización Coto de San Isidro - El Espinar AMBOS SENTIDOS",
       "nivel": "NEGRO"
     }
   ],
