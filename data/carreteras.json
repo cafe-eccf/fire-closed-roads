@@ -1,13 +1,13 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-08T05:52:19.112962+00:00",
+  "fetched_at": "2026-08-08T07:08:57.106251+00:00",
   "count": 3,
   "roads": [
     {
       "zona": "Andalucía Huelva",
       "carretera": "A-493",
       "pk_ini": "4.5",
-      "pk_fin": "31.5",
+      "pk_fin": "31.8",
       "sentido": "DESCONOCIDO",
       "localizacion": ". AMBOS SENTIDOS La Palma del Condado - Valverde del Camino AMBOS SENTIDOS",
       "nivel": "NEGRO"
@@ -15,7 +15,7 @@
     {
       "zona": "Andalucía Huelva",
       "carretera": "HU-3106",
-      "pk_ini": "0.0",
+      "pk_ini": "2.5",
       "pk_fin": "20.8",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Niebla - La Florida AMBOS SENTIDOS",
