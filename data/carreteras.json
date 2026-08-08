@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-08T14:43:58.481827+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-08T15:39:19.548390+00:00",
+  "count": 3,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -19,6 +19,15 @@
       "pk_fin": "20.8",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Niebla - La Florida AMBOS SENTIDOS",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Teruel",
+      "carretera": "TE-43",
+      "pk_ini": "8.0",
+      "pk_fin": "0.16",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "DECRECIENTE DE Molinos - La Mata de los Olmos",
       "nivel": "NEGRO"
     }
   ],
