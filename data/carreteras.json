@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-08T19:38:33.456790+00:00",
-  "count": 3,
+  "fetched_at": "2026-08-08T20:43:16.380438+00:00",
+  "count": 2,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -19,15 +19,6 @@
       "pk_fin": "20.8",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Niebla - La Florida AMBOS SENTIDOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Segovia",
-      "carretera": "N-6",
-      "pk_ini": "80.0",
-      "pk_fin": "71.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Urbanización Coto de San Isidro - El Espinar AMBOS SENTIDOS",
       "nivel": "NEGRO"
     }
   ],
