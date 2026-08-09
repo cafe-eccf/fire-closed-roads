@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-09T07:10:25.130461+00:00",
-  "count": 4,
+  "fetched_at": "2026-08-09T08:56:47.232022+00:00",
+  "count": 5,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -27,7 +27,7 @@
       "pk_ini": "0.0",
       "pk_fin": "28.77",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Palma del Condado - Berrocal",
+      "localizacion": "La Palma del Condado - Berrocal AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
@@ -37,6 +37,15 @@
       "pk_fin": "15.5",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Membrillo Alto - Berrocal",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Andalucía Huelva",
+      "carretera": "HU-6107",
+      "pk_ini": "0.0",
+      "pk_fin": "4.3",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Berrocal ambos",
       "nivel": "NEGRO"
     }
   ],
