@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-09T17:41:48.745706+00:00",
-  "count": 5,
+  "fetched_at": "2026-08-09T18:55:29.705098+00:00",
+  "count": 6,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -46,6 +46,15 @@
       "pk_fin": "4.3",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Berrocal ambos",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Comunitat Valenciana Castelló/Castellón",
+      "carretera": "CV-128",
+      "pk_ini": "0.0",
+      "pk_fin": "21.5",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Torre dels Beltrans - Hostal del Mestre",
       "nivel": "NEGRO"
     }
   ],
