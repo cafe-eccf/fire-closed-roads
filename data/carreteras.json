@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-10T18:00:39.340615+00:00",
-  "count": 15,
+  "fetched_at": "2026-08-10T19:10:34.095078+00:00",
+  "count": 14,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -103,21 +103,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Aragón Huesca",
+      "zona": "Aragón Zaragoza - Huesca",
       "carretera": "A-132",
-      "pk_ini": "46.0",
+      "pk_ini": "38.0",
       "pk_fin": "70.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Santa María - Arrés",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Segovia",
-      "carretera": "N-603",
-      "pk_ini": "81.0",
-      "pk_fin": "87.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Losa - Revenga",
+      "localizacion": "Murillo de Gállego - Arrés",
       "nivel": "NEGRO"
     },
     {
