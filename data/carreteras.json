@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-10T11:55:52.393602+00:00",
-  "count": 8,
+  "fetched_at": "2026-08-10T13:37:25.913150+00:00",
+  "count": 10,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -49,12 +49,30 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Aragón Huesca",
+      "carretera": "A-132",
+      "pk_ini": "46.0",
+      "pk_fin": "70.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Santa María - Arrés",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Toledo",
+      "carretera": "CM-4015",
+      "pk_ini": "16.0",
+      "pk_fin": "29.89",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Malpica de Tajo - San Martín de Pusa SAN MARTIN DE PUSA",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Castilla y León Segovia",
       "carretera": "N-603",
       "pk_ini": "81.0",
       "pk_fin": "87.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Losa - Revenga",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS La Losa - Revenga",
       "nivel": "NEGRO"
     },
     {
