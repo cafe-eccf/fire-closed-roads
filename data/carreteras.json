@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-10T02:28:49.582773+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-10T04:48:35.937135+00:00",
+  "count": 7,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -49,12 +49,21 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Castilla y León Segovia",
+      "carretera": "SG-722",
+      "pk_ini": "5.0",
+      "pk_fin": "0.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "DECRECIENTE DE Vegas de Matute - Zarzuela del Monte",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Comunitat Valenciana Castelló/Castellón",
       "carretera": "CV-128",
       "pk_ini": "0.0",
       "pk_fin": "21.5",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Torre dels Beltrans - Hostal del Mestre",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Torre dels Beltrans - Hostal del Mestre",
       "nivel": "NEGRO"
     }
   ],
