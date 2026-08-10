@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-10T17:04:11.185123+00:00",
+  "fetched_at": "2026-08-10T18:00:39.340615+00:00",
   "count": 15,
   "roads": [
     {
@@ -67,6 +67,15 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Andalucía Huelva",
+      "carretera": "HU-6108",
+      "pk_ini": "1.0",
+      "pk_fin": "6.5",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Paterna del Campo - Tujena",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Andalucía Sevilla",
       "carretera": "SE-6400",
       "pk_ini": "0.0",
@@ -103,21 +112,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Castilla - La Mancha Toledo",
-      "carretera": "CM-4015",
-      "pk_ini": "16.0",
-      "pk_fin": "29.89",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Malpica de Tajo - San Martín de Pusa SAN MARTIN DE PUSA",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Castilla y León Segovia",
       "carretera": "N-603",
       "pk_ini": "81.0",
       "pk_fin": "87.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS La Losa - Revenga",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "La Losa - Revenga",
       "nivel": "NEGRO"
     },
     {
