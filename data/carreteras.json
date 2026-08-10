@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-10T04:48:35.937135+00:00",
-  "count": 7,
+  "fetched_at": "2026-08-10T06:18:58.552860+00:00",
+  "count": 8,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -46,6 +46,15 @@
       "pk_fin": "4.3",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Berrocal ambos",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Segovia",
+      "carretera": "N-603",
+      "pk_ini": "64.0",
+      "pk_fin": "87.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Estación de El Espinar - Revenga",
       "nivel": "NEGRO"
     },
     {
