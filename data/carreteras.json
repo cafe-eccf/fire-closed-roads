@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-10T19:10:34.095078+00:00",
-  "count": 14,
+  "fetched_at": "2026-08-10T20:56:36.074634+00:00",
+  "count": 15,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -103,12 +103,21 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Aragón Huesca",
+      "carretera": "A-1205",
+      "pk_ini": "38.5",
+      "pk_fin": "41.15",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Triste - Santa María",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Aragón Zaragoza - Huesca",
       "carretera": "A-132",
-      "pk_ini": "38.0",
-      "pk_fin": "70.0",
+      "pk_ini": "38.8",
+      "pk_fin": "64.7",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Murillo de Gállego - Arrés",
+      "localizacion": "Murillo de Gállego - Bailo",
       "nivel": "NEGRO"
     },
     {
