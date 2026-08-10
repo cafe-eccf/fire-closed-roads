@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-10T13:37:25.913150+00:00",
-  "count": 10,
+  "fetched_at": "2026-08-10T15:11:44.730047+00:00",
+  "count": 15,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -41,11 +41,56 @@
     },
     {
       "zona": "Andalucía Huelva",
+      "carretera": "HU-6104",
+      "pk_ini": "0.0",
+      "pk_fin": "3.93",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Minas de Riotinto - Las Delgadas AMBOS SENTIDOS",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Andalucía Huelva",
+      "carretera": "HU-6106",
+      "pk_ini": "0.0",
+      "pk_fin": "3.8",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Nerva AMBOS SENTIDOS",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Andalucía Huelva",
       "carretera": "HU-6107",
       "pk_ini": "0.0",
       "pk_fin": "4.3",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Berrocal ambos",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Andalucía Sevilla",
+      "carretera": "SE-6400",
+      "pk_ini": "0.0",
+      "pk_fin": "4.5",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Juan Gallego - El Álamo",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Andalucía Sevilla",
+      "carretera": "SE-6402",
+      "pk_ini": "0.0",
+      "pk_fin": "12.5",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "La Aulaga - El Madroño",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Andalucía Sevilla VIAs",
+      "carretera": "SE-538",
+      "pk_ini": "0.0",
+      "pk_fin": "24.77",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Aznalcóllar - El Álamo",
       "nivel": "NEGRO"
     },
     {
