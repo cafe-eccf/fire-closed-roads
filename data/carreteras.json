@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-10T08:47:54.857956+00:00",
+  "fetched_at": "2026-08-10T10:33:48.128323+00:00",
   "count": 8,
   "roads": [
     {
@@ -51,10 +51,10 @@
     {
       "zona": "Castilla y León Segovia",
       "carretera": "N-603",
-      "pk_ini": "64.0",
+      "pk_ini": "81.0",
       "pk_fin": "87.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Estación de El Espinar - Revenga",
+      "localizacion": "La Losa - Revenga",
       "nivel": "NEGRO"
     },
     {
