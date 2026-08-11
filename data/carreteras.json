@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-11T06:00:16.107903+00:00",
-  "count": 15,
+  "fetched_at": "2026-08-11T07:22:52.512738+00:00",
+  "count": 13,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -118,24 +118,6 @@
       "pk_fin": "64.7",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Murillo de Gállego - Bailo",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Segovia",
-      "carretera": "SG-722",
-      "pk_ini": "5.0",
-      "pk_fin": "0.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "DECRECIENTE DE Vegas de Matute - Zarzuela del Monte",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Comunitat Valenciana Castelló/Castellón",
-      "carretera": "CV-128",
-      "pk_ini": "0.0",
-      "pk_fin": "21.5",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Torre dels Beltrans - Hostal del Mestre",
       "nivel": "NEGRO"
     }
   ],
