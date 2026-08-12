@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-12T17:07:29.131877+00:00",
-  "count": 15,
+  "fetched_at": "2026-08-12T19:15:13.599603+00:00",
+  "count": 16,
   "roads": [
     {
       "zona": "Andalucía Granada",
@@ -127,6 +127,15 @@
       "pk_fin": "41.15",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Osia - Santa María",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Huesca",
+      "carretera": "N-240",
+      "pk_ini": "297.0",
+      "pk_fin": "303.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Santa Cilia - Puente la Reina de Jaca",
       "nivel": "NEGRO"
     },
     {
