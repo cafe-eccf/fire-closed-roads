@@ -1,24 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-12T19:15:13.599603+00:00",
-  "count": 16,
+  "fetched_at": "2026-08-12T20:59:10.437055+00:00",
+  "count": 15,
   "roads": [
-    {
-      "zona": "Andalucía Granada",
-      "carretera": "GR-3204",
-      "pk_ini": "6.5",
-      "pk_fin": "9.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Restábal - Pinos del Valle",
-      "nivel": "NEGRO"
-    },
     {
       "zona": "Andalucía Huelva",
       "carretera": "A-493",
       "pk_ini": "4.5",
       "pk_fin": "31.8",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Palma del Condado - Valverde del Camino AMBOS SENTIDOS",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS La Palma del Condado - Valverde del Camino AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
