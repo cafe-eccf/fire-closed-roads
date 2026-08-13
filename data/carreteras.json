@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-13T21:56:55.375772+00:00",
-  "count": 17,
+  "fetched_at": "2026-08-13T22:56:44.198917+00:00",
+  "count": 18,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -82,6 +82,15 @@
       "pk_fin": "6.5",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Paterna del Campo - Tujena",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Andalucía Sevilla",
+      "carretera": "SE-4401",
+      "pk_ini": "0.0",
+      "pk_fin": "30.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Aznalcóllar - El Castillo de las Guardas",
       "nivel": "NEGRO"
     },
     {
