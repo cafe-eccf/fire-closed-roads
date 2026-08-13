@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-13T13:38:47.544749+00:00",
+  "fetched_at": "2026-08-13T15:09:29.791343+00:00",
   "count": 16,
   "roads": [
     {
@@ -132,7 +132,7 @@
     {
       "zona": "Aragón Huesca",
       "carretera": "N-240",
-      "pk_ini": "291.0",
+      "pk_ini": "292.1",
       "pk_fin": "303.0",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Ascara - Puente la Reina de Jaca",
