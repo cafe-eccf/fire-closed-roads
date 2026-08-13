@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-13T10:18:37.474655+00:00",
+  "fetched_at": "2026-08-13T11:55:50.669890+00:00",
   "count": 16,
   "roads": [
     {
@@ -114,10 +114,10 @@
     {
       "zona": "Aragón Huesca",
       "carretera": "A-1205",
-      "pk_ini": "25.0",
-      "pk_fin": "41.15",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Osia - Santa María",
+      "pk_ini": "41.0",
+      "pk_fin": "41.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Santa María",
       "nivel": "NEGRO"
     },
     {
@@ -125,8 +125,8 @@
       "carretera": "A-1603",
       "pk_ini": "0.0",
       "pk_fin": "10.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Bernués - Botaya",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Bernués - Botaya",
       "nivel": "NEGRO"
     },
     {
