@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-13T06:39:55.719155+00:00",
-  "count": 15,
+  "fetched_at": "2026-08-13T08:39:55.520398+00:00",
+  "count": 16,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -118,6 +118,15 @@
       "pk_fin": "41.15",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Osia - Santa María",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Huesca",
+      "carretera": "A-1603",
+      "pk_ini": "0.0",
+      "pk_fin": "10.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Bernués - Botaya",
       "nivel": "NEGRO"
     },
     {
