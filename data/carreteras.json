@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-13T20:56:53.580590+00:00",
-  "count": 16,
+  "fetched_at": "2026-08-13T21:56:55.375772+00:00",
+  "count": 17,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -145,6 +145,15 @@
       "pk_fin": "70.8",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Murillo de Gállego - Puente la Reina de Jaca",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Cataluña Girona",
+      "carretera": "C-65",
+      "pk_ini": "5.0",
+      "pk_fin": "6.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "DESCONOCIDO Santa Cristina d'Aro GIRONA",
       "nivel": "NEGRO"
     }
   ],
