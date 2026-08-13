@@ -1,24 +1,24 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-13T08:39:55.520398+00:00",
+  "fetched_at": "2026-08-13T10:18:37.474655+00:00",
   "count": 16,
   "roads": [
     {
       "zona": "Andalucía Huelva",
       "carretera": "A-493",
       "pk_ini": "4.5",
-      "pk_fin": "31.8",
+      "pk_fin": "24.9",
       "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS La Palma del Condado - Valverde del Camino AMBOS SENTIDOS",
+      "localizacion": ". AMBOS SENTIDOS La Palma del Condado - La Florida AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
       "zona": "Andalucía Huelva",
       "carretera": "HU-3106",
-      "pk_ini": "2.5",
+      "pk_ini": "11.4",
       "pk_fin": "20.8",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Niebla - La Florida AMBOS SENTIDOS",
+      "localizacion": "La Peñuela - La Florida AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
@@ -142,9 +142,9 @@
       "zona": "Aragón Zaragoza - Huesca",
       "carretera": "A-132",
       "pk_ini": "38.8",
-      "pk_fin": "70.0",
+      "pk_fin": "70.8",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Murillo de Gállego - Arrés",
+      "localizacion": "Murillo de Gállego - Puente la Reina de Jaca",
       "nivel": "NEGRO"
     }
   ],
