@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-13T11:55:50.669890+00:00",
+  "fetched_at": "2026-08-13T13:38:47.544749+00:00",
   "count": 16,
   "roads": [
     {
@@ -132,10 +132,10 @@
     {
       "zona": "Aragón Huesca",
       "carretera": "N-240",
-      "pk_ini": "297.0",
+      "pk_ini": "291.0",
       "pk_fin": "303.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Santa Cilia - Puente la Reina de Jaca",
+      "localizacion": "Ascara - Puente la Reina de Jaca",
       "nivel": "NEGRO"
     },
     {
