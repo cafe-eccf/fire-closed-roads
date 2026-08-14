@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-14T17:07:31.734580+00:00",
-  "count": 20,
+  "fetched_at": "2026-08-14T19:08:33.201401+00:00",
+  "count": 18,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -123,10 +123,10 @@
     {
       "zona": "Aragón Huesca",
       "carretera": "A-1205",
-      "pk_ini": "25.0",
+      "pk_ini": "17.3",
       "pk_fin": "41.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Osia - Santa María",
+      "localizacion": "CRECIENTE DE LA Bernués - Santa María",
       "nivel": "NEGRO"
     },
     {
@@ -163,24 +163,6 @@
       "pk_fin": "5.0",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "La Almunia de Doña Godina - Alpartir",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Albacete",
-      "carretera": "CM-3215",
-      "pk_ini": "1.0",
-      "pk_fin": "17.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Tobarra - Ontur",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla - La Mancha Cuenca CU-",
-      "carretera": "V-9201",
-      "pk_ini": "0.0",
-      "pk_fin": "8.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "El Pozuelo - Alcantud AMBOS SENTIDOS",
       "nivel": "NEGRO"
     }
   ],
