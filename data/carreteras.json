@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-14T15:03:10.919559+00:00",
-  "count": 17,
+  "fetched_at": "2026-08-14T16:02:50.857311+00:00",
+  "count": 20,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -154,6 +154,33 @@
       "pk_fin": "70.8",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Murillo de Gállego - Puente la Reina de Jaca",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Zaragoza",
+      "carretera": "ZP-4203",
+      "pk_ini": "0.0",
+      "pk_fin": "5.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "La Almunia de Doña Godina - Alpartir",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Albacete",
+      "carretera": "CM-3215",
+      "pk_ini": "1.0",
+      "pk_fin": "17.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Tobarra - Ontur",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla - La Mancha Cuenca CU-",
+      "carretera": "V-9201",
+      "pk_ini": "0.0",
+      "pk_fin": "8.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "El Pozuelo - Alcantud AMBOS SENTIDOS",
       "nivel": "NEGRO"
     }
   ],
