@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-14T20:39:27.031590+00:00",
-  "count": 17,
+  "fetched_at": "2026-08-14T21:35:17.818272+00:00",
+  "count": 18,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -136,6 +136,15 @@
       "pk_fin": "10.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Bernués - Botaya",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Huesca HU-",
+      "carretera": "V-3001",
+      "pk_ini": "0.0",
+      "pk_fin": "9.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Yeste - Rasal",
       "nivel": "NEGRO"
     },
     {
