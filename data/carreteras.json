@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-14T13:34:30.598437+00:00",
+  "fetched_at": "2026-08-14T15:03:10.919559+00:00",
   "count": 17,
   "roads": [
     {
@@ -123,10 +123,10 @@
     {
       "zona": "Aragón Huesca",
       "carretera": "A-1205",
-      "pk_ini": "41.0",
+      "pk_ini": "25.0",
       "pk_fin": "41.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Santa María",
+      "localizacion": "CRECIENTE DE LA Osia - Santa María",
       "nivel": "NEGRO"
     },
     {
