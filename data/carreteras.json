@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-15T06:53:50.778676+00:00",
-  "count": 16,
+  "fetched_at": "2026-08-15T07:38:34.065374+00:00",
+  "count": 15,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -28,15 +28,6 @@
       "pk_fin": "15.5",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Membrillo Alto - Berrocal",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Andalucía Huelva",
-      "carretera": "HU-6104",
-      "pk_ini": "0.0",
-      "pk_fin": "3.93",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Minas de Riotinto - Las Delgadas AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
