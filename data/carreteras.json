@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-15T17:31:07.509210+00:00",
-  "count": 17,
+  "fetched_at": "2026-08-15T18:42:59.338949+00:00",
+  "count": 18,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -121,12 +121,21 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Aragón Huesca HU-",
+      "carretera": "V-3003",
+      "pk_ini": "15.5",
+      "pk_fin": "23.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "CRECIENTE DE LA Javierrelatre - Osia",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Aragón Huesca",
       "carretera": "N-240",
       "pk_ini": "292.1",
       "pk_fin": "303.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Ascara - Puente la Reina de Jaca",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Ascara - Puente la Reina de Jaca",
       "nivel": "NEGRO"
     },
     {
