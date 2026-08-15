@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-15T03:49:48.826742+00:00",
-  "count": 18,
+  "fetched_at": "2026-08-15T04:41:51.416887+00:00",
+  "count": 16,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -10,15 +10,6 @@
       "pk_fin": "24.9",
       "sentido": "DESCONOCIDO",
       "localizacion": ". AMBOS SENTIDOS La Palma del Condado - La Florida AMBOS SENTIDOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Andalucía Huelva",
-      "carretera": "HU-3106",
-      "pk_ini": "11.4",
-      "pk_fin": "20.8",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Peñuela - La Florida AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
@@ -32,17 +23,8 @@
     },
     {
       "zona": "Andalucía Huelva",
-      "carretera": "HU-5103",
-      "pk_ini": "0.0",
-      "pk_fin": "1.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "El Pozuelo AMBOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Andalucía Huelva",
       "carretera": "HU-5104",
-      "pk_ini": "0.0",
+      "pk_ini": "4.5",
       "pk_fin": "15.5",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Membrillo Alto - Berrocal",
