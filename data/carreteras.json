@@ -1,15 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-15T20:34:37.038091+00:00",
-  "count": 18,
+  "fetched_at": "2026-08-15T21:31:21.309528+00:00",
+  "count": 16,
   "roads": [
     {
       "zona": "Andalucía Huelva",
       "carretera": "A-493",
-      "pk_ini": "4.5",
+      "pk_ini": "14.7",
       "pk_fin": "24.9",
       "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS La Palma del Condado - La Florida AMBOS SENTIDOS",
+      "localizacion": ". AMBOS SENTIDOS Villarrasa - La Florida AMBOS SENTIDOS",
       "nivel": "NEGRO"
     },
     {
@@ -23,20 +23,11 @@
     },
     {
       "zona": "Andalucía Huelva",
-      "carretera": "HU-6104",
-      "pk_ini": "0.0",
-      "pk_fin": "3.93",
+      "carretera": "HU-5104",
+      "pk_ini": "8.0",
+      "pk_fin": "17.3",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Minas de Riotinto - Las Delgadas AMBOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Andalucía Huelva",
-      "carretera": "HU-6106",
-      "pk_ini": "0.0",
-      "pk_fin": "3.8",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Nerva AMBOS SENTIDOS",
+      "localizacion": "Marigenta - Berrocal AMBOS",
       "nivel": "NEGRO"
     },
     {
@@ -46,15 +37,6 @@
       "pk_fin": "4.3",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Berrocal ambos",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Andalucía Huelva",
-      "carretera": "HU-6108",
-      "pk_ini": "1.0",
-      "pk_fin": "6.5",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Paterna del Campo - Tujena",
       "nivel": "NEGRO"
     },
     {
