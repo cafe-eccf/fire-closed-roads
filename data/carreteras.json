@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-15T10:34:14.415466+00:00",
-  "count": 15,
+  "fetched_at": "2026-08-15T11:30:36.721772+00:00",
+  "count": 16,
   "roads": [
     {
       "zona": "Andalucía Huelva",
@@ -136,6 +136,15 @@
       "pk_fin": "70.8",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Murillo de Gállego - Puente la Reina de Jaca",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Castilla y León Zamora",
+      "carretera": "A-52",
+      "pk_ini": "92.0",
+      "pk_fin": "79.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "DECRECIENTE DE Requejo - Triufé BENAVENTE",
       "nivel": "NEGRO"
     }
   ],
