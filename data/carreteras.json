@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-16T14:34:06.572504+00:00",
+  "fetched_at": "2026-08-16T15:31:51.910433+00:00",
   "count": 8,
   "roads": [
     {
@@ -26,8 +26,8 @@
       "carretera": "V-3001",
       "pk_ini": "0.0",
       "pk_fin": "9.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Yeste - Rasal",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Aragón Huesca HF0262BA 0.0 4.0 AMBOS SENTIDOS Ascara - Atarés NEGRO AMBOS SENTIDOS Yeste - Rasal",
       "nivel": "NEGRO"
     },
     {
@@ -52,9 +52,9 @@
       "zona": "Aragón Zaragoza - Huesca",
       "carretera": "A-132",
       "pk_ini": "38.8",
-      "pk_fin": "70.8",
+      "pk_fin": "64.7",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Murillo de Gállego - Puente la Reina de Jaca",
+      "localizacion": "Murillo de Gállego - Bailo",
       "nivel": "NEGRO"
     },
     {
