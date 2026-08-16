@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-16T07:39:34.110405+00:00",
+  "fetched_at": "2026-08-16T08:42:04.903167+00:00",
   "count": 16,
   "roads": [
     {
@@ -43,9 +43,18 @@
       "zona": "Andalucía Sevilla",
       "carretera": "SE-4401",
       "pk_ini": "0.0",
-      "pk_fin": "30.0",
+      "pk_fin": "24.5",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Aznalcóllar - El Castillo de las Guardas",
+      "localizacion": "Aznalcóllar - Las Cañadillas",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Andalucía Sevilla",
+      "carretera": "SE-5400",
+      "pk_ini": "0.0",
+      "pk_fin": "4.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "El Álamo - Villargordo",
       "nivel": "NEGRO"
     },
     {
@@ -55,15 +64,6 @@
       "pk_fin": "4.5",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Juan Gallego - El Álamo",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Andalucía Sevilla",
-      "carretera": "SE-6402",
-      "pk_ini": "0.0",
-      "pk_fin": "12.5",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Aulaga - El Madroño",
       "nivel": "NEGRO"
     },
     {
