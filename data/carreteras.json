@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-16T15:31:51.910433+00:00",
-  "count": 8,
+  "fetched_at": "2026-08-16T16:37:01.499386+00:00",
+  "count": 9,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -19,6 +19,15 @@
       "pk_fin": "10.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Bernués - Botaya",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Huesca",
+      "carretera": "A-2602",
+      "pk_ini": "0.0",
+      "pk_fin": "0.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Bailo",
       "nivel": "NEGRO"
     },
     {
@@ -52,9 +61,9 @@
       "zona": "Aragón Zaragoza - Huesca",
       "carretera": "A-132",
       "pk_ini": "38.8",
-      "pk_fin": "64.7",
+      "pk_fin": "70.78",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Murillo de Gállego - Bailo",
+      "localizacion": "Murillo de Gállego - Puente la Reina de Jaca",
       "nivel": "NEGRO"
     },
     {
