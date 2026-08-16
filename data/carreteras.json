@@ -1,51 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-16T10:34:36.298894+00:00",
-  "count": 16,
+  "fetched_at": "2026-08-16T11:30:05.240368+00:00",
+  "count": 12,
   "roads": [
-    {
-      "zona": "Andalucía Huelva",
-      "carretera": "A-493",
-      "pk_ini": "14.7",
-      "pk_fin": "24.9",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Villarrasa - La Florida AMBOS SENTIDOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Andalucía Huelva",
-      "carretera": "HU-4103",
-      "pk_ini": "0.0",
-      "pk_fin": "28.77",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "La Palma del Condado - Berrocal AMBOS SENTIDOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Andalucía Huelva",
-      "carretera": "HU-5104",
-      "pk_ini": "8.0",
-      "pk_fin": "17.3",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Marigenta - Berrocal AMBOS",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Andalucía Huelva",
-      "carretera": "HU-6107",
-      "pk_ini": "0.0",
-      "pk_fin": "4.3",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Berrocal ambos",
-      "nivel": "NEGRO"
-    },
     {
       "zona": "Andalucía Sevilla",
       "carretera": "SE-4401",
       "pk_ini": "0.0",
       "pk_fin": "24.5",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Aznalcóllar - Las Cañadillas",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Aznalcóllar - Las Cañadillas",
       "nivel": "NEGRO"
     },
     {
@@ -78,7 +42,7 @@
     {
       "zona": "Aragón Huesca",
       "carretera": "A-1205",
-      "pk_ini": "17.3",
+      "pk_ini": "9.0",
       "pk_fin": "41.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "CRECIENTE DE LA Bernués - Santa María",
