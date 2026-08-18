@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-18T20:35:26.874218+00:00",
-  "count": 9,
+  "fetched_at": "2026-08-18T21:33:54.984043+00:00",
+  "count": 11,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -76,12 +76,30 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Extremadura Cáceres",
+      "carretera": "CC-122",
+      "pk_ini": "0.0",
+      "pk_fin": "15.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Pinofranqueado - Aldehuela LA ALDEHUELA",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Extremadura Cáceres",
+      "carretera": "CC-137",
+      "pk_ini": "0.0",
+      "pk_fin": "8.9",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Nuñomoral - El Gasco EL GASCO",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Galicia Ourense",
       "carretera": "OU-0905",
       "pk_ini": "4.2",
       "pk_fin": "4.25",
       "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Castromil",
+      "localizacion": "CRECIENTE DE LA Castromil",
       "nivel": "NEGRO"
     }
   ],
