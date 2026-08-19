@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-19T13:55:19.031702+00:00",
-  "count": 13,
+  "fetched_at": "2026-08-19T14:47:08.510425+00:00",
+  "count": 14,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -113,11 +113,20 @@
     },
     {
       "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-507",
+      "pk_ini": "9.38",
+      "pk_fin": "18.36",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Villamanta - Aldea del Fresno",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-510",
       "pk_ini": "50.7",
       "pk_fin": "53.9",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Aldea del Fresno - Dehesa de Hernán Vicente",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Aldea del Fresno - Dehesa de Hernán Vicente",
       "nivel": "NEGRO"
     }
   ],
