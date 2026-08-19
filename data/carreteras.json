@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-19T08:50:13.293457+00:00",
-  "count": 11,
+  "fetched_at": "2026-08-19T09:44:15.976800+00:00",
+  "count": 12,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -32,11 +32,20 @@
     },
     {
       "zona": "Aragón Huesca HU-",
+      "carretera": "V-2301",
+      "pk_ini": "0.0",
+      "pk_fin": "3.85",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Aragón Huesca HF0262BA 0.0 4.0 AMBOS SENTIDOS Ascara - Atarés NEGRO AMBOS SENTIDOS Binacúa - Santa Cruz de la Serós",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Huesca HU-",
       "carretera": "V-3001",
       "pk_ini": "0.0",
       "pk_fin": "9.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Aragón Huesca HF0262BA 0.0 4.0 AMBOS SENTIDOS Ascara - Atarés NEGRO AMBOS SENTIDOS Yeste - Rasal",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Yeste - Rasal",
       "nivel": "NEGRO"
     },
     {
