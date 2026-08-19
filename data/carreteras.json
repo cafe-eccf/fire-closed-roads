@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-19T16:42:13.724480+00:00",
-  "count": 16,
+  "fetched_at": "2026-08-19T17:36:08.205197+00:00",
+  "count": 14,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -85,21 +85,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Cataluña Barcelona",
-      "carretera": "BV-2249",
-      "pk_ini": "1.0",
-      "pk_fin": "2.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Gelida",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Extremadura Cáceres",
       "carretera": "CC-122",
       "pk_ini": "0.0",
       "pk_fin": "15.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Pinofranqueado - Aldehuela LA ALDEHUELA",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Pinofranqueado - Aldehuela LA ALDEHUELA",
       "nivel": "NEGRO"
     },
     {
@@ -136,15 +127,6 @@
       "pk_fin": "53.9",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Aldea del Fresno - Dehesa de Hernán Vicente",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-607",
-      "pk_ini": "10.0",
-      "pk_fin": "10.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Madrid",
       "nivel": "NEGRO"
     }
   ],
