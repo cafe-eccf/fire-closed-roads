@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-19T17:36:08.205197+00:00",
-  "count": 14,
+  "fetched_at": "2026-08-19T18:49:24.744110+00:00",
+  "count": 15,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -64,6 +64,15 @@
       "pk_fin": "303.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Abay - Puente la Reina de Jaca",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Teruel",
+      "carretera": "A-1507",
+      "pk_ini": "13.0",
+      "pk_fin": "15.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Tornos",
       "nivel": "NEGRO"
     },
     {
