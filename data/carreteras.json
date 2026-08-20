@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-20T08:51:54.374040+00:00",
+  "fetched_at": "2026-08-20T09:46:19.218972+00:00",
   "count": 12,
   "roads": [
     {
@@ -76,21 +76,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Castilla y León Zamora ZA-",
-      "carretera": "L-2698",
-      "pk_ini": "0.0",
-      "pk_fin": "12.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Hermisende - Castromil AMBOS SENTIDOS",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Extremadura Cáceres",
       "carretera": "CC-122",
       "pk_ini": "0.0",
       "pk_fin": "15.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Pinofranqueado - Aldehuela LA ALDEHUELA",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Pinofranqueado - Aldehuela LA ALDEHUELA",
       "nivel": "NEGRO"
     },
     {
@@ -109,6 +100,15 @@
       "pk_fin": "4.25",
       "sentido": "DESCONOCIDO",
       "localizacion": "CRECIENTE DE LA Castromil",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Madrid, Comunidad de Madrid",
+      "carretera": "M-510",
+      "pk_ini": "50.7",
+      "pk_fin": "53.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Aldea del Fresno - Dehesa de Hernán Vicente",
       "nivel": "NEGRO"
     }
   ],
