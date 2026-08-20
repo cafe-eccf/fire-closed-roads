@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-20T21:38:11.861947+00:00",
-  "count": 4,
+  "fetched_at": "2026-08-20T22:39:01.049597+00:00",
+  "count": 5,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -22,12 +22,21 @@
       "nivel": "NEGRO"
     },
     {
+      "zona": "Comunitat Valenciana",
+      "carretera": "CV-25",
+      "pk_ini": "35.0",
+      "pk_fin": "10.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "Castelló/Castellón - AMBOS SENTIDOS El Plano - Olocau",
+      "nivel": "NEGRO"
+    },
+    {
       "zona": "Extremadura Cáceres",
       "carretera": "CC-122",
       "pk_ini": "0.0",
       "pk_fin": "15.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Pinofranqueado - Aldehuela LA ALDEHUELA",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "València/Valencia AMBOS SENTIDOS Pinofranqueado - Aldehuela LA ALDEHUELA",
       "nivel": "NEGRO"
     },
     {
