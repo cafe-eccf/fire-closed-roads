@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-20T18:54:30.011510+00:00",
-  "count": 7,
+  "fetched_at": "2026-08-20T19:39:07.537319+00:00",
+  "count": 4,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -17,35 +17,8 @@
       "carretera": "V-2301",
       "pk_ini": "0.0",
       "pk_fin": "3.85",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Aragón Huesca HF0262BA 0.0 4.0 AMBOS SENTIDOS Ascara - Atarés NEGRO AMBOS SENTIDOS Binacúa - Santa Cruz de la Serós",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Aragón Huesca HU-",
-      "carretera": "V-3001",
-      "pk_ini": "0.0",
-      "pk_fin": "9.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Yeste - Rasal",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Aragón Huesca HU-",
-      "carretera": "V-3003",
-      "pk_ini": "15.5",
-      "pk_fin": "23.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Javierrelatre - Osia",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Aragón Zaragoza - Huesca",
-      "carretera": "A-132",
-      "pk_ini": "38.8",
-      "pk_fin": "70.78",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Murillo de Gállego - Puente la Reina de Jaca",
+      "localizacion": "Binacúa - Santa Cruz de la Serós",
       "nivel": "NEGRO"
     },
     {
