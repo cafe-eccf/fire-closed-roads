@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-20T10:41:48.837126+00:00",
-  "count": 11,
+  "fetched_at": "2026-08-20T11:36:50.378437+00:00",
+  "count": 10,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -91,15 +91,6 @@
       "pk_fin": "8.9",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Nuñomoral - El Gasco EL GASCO",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Madrid, Comunidad de Madrid",
-      "carretera": "M-510",
-      "pk_ini": "50.7",
-      "pk_fin": "53.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Aldea del Fresno - Dehesa de Hernán Vicente",
       "nivel": "NEGRO"
     }
   ],
