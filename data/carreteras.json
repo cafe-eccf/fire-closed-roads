@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-20T16:47:44.946321+00:00",
-  "count": 10,
+  "fetched_at": "2026-08-20T17:39:16.359430+00:00",
+  "count": 9,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -58,21 +58,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Aragón Huesca",
-      "carretera": "N-240",
-      "pk_ini": "287.9",
-      "pk_fin": "303.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Abay - Puente la Reina de Jaca",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Aragón Zaragoza - Huesca",
       "carretera": "A-132",
       "pk_ini": "38.8",
       "pk_fin": "70.78",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Murillo de Gállego - Puente la Reina de Jaca",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "KILOMETRACIÓN AMBOS SENTIDOS Murillo de Gállego - Puente la Reina de Jaca",
       "nivel": "NEGRO"
     },
     {
