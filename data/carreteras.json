@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-21T19:32:44.311484+00:00",
-  "count": 4,
+  "fetched_at": "2026-08-21T20:35:52.702862+00:00",
+  "count": 2,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -19,24 +19,6 @@
       "pk_fin": "10.0",
       "sentido": "DESCONOCIDO",
       "localizacion": "Castelló/Castellón - AMBOS SENTIDOS El Plano - Olocau",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Extremadura Cáceres",
-      "carretera": "CC-122",
-      "pk_ini": "0.0",
-      "pk_fin": "15.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "València/Valencia AMBOS SENTIDOS Pinofranqueado - Aldehuela LA ALDEHUELA",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Extremadura Cáceres",
-      "carretera": "CC-137",
-      "pk_ini": "0.0",
-      "pk_fin": "8.9",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Nuñomoral - El Gasco EL GASCO",
       "nivel": "NEGRO"
     }
   ],
