@@ -1,24 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-21T15:43:46.805607+00:00",
-  "count": 5,
+  "fetched_at": "2026-08-21T16:47:01.911571+00:00",
+  "count": 4,
   "roads": [
     {
       "zona": "Aragón Huesca",
       "carretera": "A-1603",
       "pk_ini": "8.0",
-      "pk_fin": "10.0",
+      "pk_fin": "10.06",
       "sentido": "DESCONOCIDO",
       "localizacion": ". AMBOS SENTIDOS Botaya",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Aragón Huesca HU-",
-      "carretera": "V-2301",
-      "pk_ini": "0.0",
-      "pk_fin": "3.85",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Binacúa - Santa Cruz de la Serós",
       "nivel": "NEGRO"
     },
     {
