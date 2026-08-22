@@ -1,13 +1,13 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-22T05:37:30.749966+00:00",
+  "fetched_at": "2026-08-22T06:55:13.645294+00:00",
   "count": 2,
   "roads": [
     {
       "zona": "Aragón Huesca",
       "carretera": "A-1603",
-      "pk_ini": "8.0",
-      "pk_fin": "10.06",
+      "pk_ini": "8.1",
+      "pk_fin": "10.0",
       "sentido": "DESCONOCIDO",
       "localizacion": ". AMBOS SENTIDOS Botaya",
       "nivel": "NEGRO"
