@@ -1,15 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-23T16:37:37.031323+00:00",
+  "fetched_at": "2026-08-23T17:30:17.761454+00:00",
   "count": 3,
   "roads": [
     {
       "zona": "Andalucía Huelva",
       "carretera": "N-435",
-      "pk_ini": "201.0",
-      "pk_fin": "202.0",
+      "pk_ini": "202.0",
+      "pk_fin": "201.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Navahermosa",
+      "localizacion": ". DECRECIENTE DE Navahermosa",
       "nivel": "NEGRO"
     },
     {
@@ -17,8 +17,8 @@
       "carretera": "A-1603",
       "pk_ini": "8.1",
       "pk_fin": "10.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Botaya",
+      "sentido": "DESCONOCIDO",
+      "localizacion": "LA KILOMETRACIÓN AMBOS SENTIDOS Botaya",
       "nivel": "NEGRO"
     },
     {
