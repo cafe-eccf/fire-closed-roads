@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-24T13:08:44.265524+00:00",
-  "count": 3,
+  "fetched_at": "2026-08-24T14:54:09.628591+00:00",
+  "count": 1,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -10,24 +10,6 @@
       "pk_fin": "10.0",
       "sentido": "DESCONOCIDO",
       "localizacion": ". AMBOS SENTIDOS Botaya",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Zamora",
-      "carretera": "N-122",
-      "pk_ini": "478.5",
-      "pk_fin": "492.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Muelas del Pan - Bermillo de Alba PORTUGAL",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Castilla y León Zamora",
-      "carretera": "ZA-324",
-      "pk_ini": "0.0",
-      "pk_fin": "3.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Ricobayo de Alba - Villalcampo limite con Portugal",
       "nivel": "NEGRO"
     }
   ],
