@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-24T11:38:59.904943+00:00",
-  "count": 4,
+  "fetched_at": "2026-08-24T13:08:44.265524+00:00",
+  "count": 3,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -28,15 +28,6 @@
       "pk_fin": "3.0",
       "sentido": "AMBOS SENTIDOS",
       "localizacion": "Ricobayo de Alba - Villalcampo limite con Portugal",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Comunitat Valenciana",
-      "carretera": "CV-25",
-      "pk_ini": "35.0",
-      "pk_fin": "10.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "Castelló/Castellón - AMBOS SENTIDOS El Plano - Olocau",
       "nivel": "NEGRO"
     }
   ],
