@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-26T13:11:08.476368+00:00",
-  "count": 6,
+  "fetched_at": "2026-08-26T14:56:40.925578+00:00",
+  "count": 1,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -10,51 +10,6 @@
       "pk_fin": "10.0",
       "sentido": "DESCONOCIDO",
       "localizacion": ". AMBOS SENTIDOS Botaya",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Aragón Zaragoza",
-      "carretera": "A-2",
-      "pk_ini": "339.59",
-      "pk_fin": "339.59",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "CRECIENTE DE LA Alfajarín BARCELONA",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Aragón Zaragoza",
-      "carretera": "AP-2",
-      "pk_ini": "29.0",
-      "pk_fin": "30.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN CRECIENTE DE LA Villafranca de Ebro",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Aragón Zaragoza",
-      "carretera": "AP-2",
-      "pk_ini": "30.31",
-      "pk_fin": "29.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "KILOMETRACIÓN DECRECIENTE DE Villafranca de Ebro",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Aragón Zaragoza",
-      "carretera": "AP-2",
-      "pk_ini": "43.13",
-      "pk_fin": "43.09",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN DECRECIENTE DE Pina de Ebro",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Aragón Zaragoza",
-      "carretera": "AP-2",
-      "pk_ini": "67.15",
-      "pk_fin": "67.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": "LA KILOMETRACIÓN DECRECIENTE DE La Almolda",
       "nivel": "NEGRO"
     }
   ],
