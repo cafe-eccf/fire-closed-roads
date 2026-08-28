@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-27T20:20:43.680190+00:00",
+  "fetched_at": "2026-08-28T05:19:07.901653+00:00",
   "count": 2,
   "roads": [
     {
@@ -15,10 +15,10 @@
     {
       "zona": "Comunitat Valenciana València/Valencia",
       "carretera": "CV-500",
-      "pk_ini": "0.0",
+      "pk_ini": "4.0",
       "pk_fin": "10.5",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Pinedo - El Palmar",
+      "localizacion": "El Saler - El Palmar",
       "nivel": "NEGRO"
     }
   ],
