@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-08-30T20:59:08.647549+00:00",
-  "count": 2,
+  "fetched_at": "2026-08-30T23:25:46.942847+00:00",
+  "count": 1,
   "roads": [
     {
       "zona": "Aragón Huesca",
@@ -10,15 +10,6 @@
       "pk_fin": "10.0",
       "sentido": "DESCONOCIDO",
       "localizacion": ". AMBOS SENTIDOS Botaya",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Comunitat Valenciana València/Valencia",
-      "carretera": "CV-500",
-      "pk_ini": "4.0",
-      "pk_fin": "10.5",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "El Saler - El Palmar",
       "nivel": "NEGRO"
     }
   ],
