@@ -1,7 +1,17 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-06T13:36:58.384898+00:00",
-  "count": 0,
-  "roads": [],
+  "fetched_at": "2026-09-06T16:56:57.737998+00:00",
+  "count": 1,
+  "roads": [
+    {
+      "zona": "Castilla y León Burgos",
+      "carretera": "BU-925",
+      "pk_ini": "4.5",
+      "pk_fin": "5.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS La Calabaza Aranda de Duero",
+      "nivel": "NEGRO"
+    }
+  ],
   "unparsed_lines": []
 }
