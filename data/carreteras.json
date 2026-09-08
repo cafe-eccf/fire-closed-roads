@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-08T16:33:28.836034+00:00",
-  "count": 3,
+  "fetched_at": "2026-09-08T19:52:02.377699+00:00",
+  "count": 2,
   "roads": [
     {
       "zona": "Castilla y León Ávila",
@@ -13,21 +13,12 @@
       "nivel": "NEGRO"
     },
     {
-      "zona": "Comunitat Valenciana Alacant/Alicante",
-      "carretera": "CV-70",
-      "pk_ini": "39.5",
-      "pk_fin": "32.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Xirles - Benimantell",
-      "nivel": "NEGRO"
-    },
-    {
       "zona": "Madrid, Comunidad de Madrid",
       "carretera": "M-505",
       "pk_ini": "46.0",
-      "pk_fin": "46.0",
+      "pk_fin": "40.0",
       "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Valdemaqueda",
+      "localizacion": "Valdemaqueda - La Paradilla",
       "nivel": "NEGRO"
     }
   ],
