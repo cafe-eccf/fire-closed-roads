@@ -1,7 +1,17 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-14T06:08:40.193100+00:00",
-  "count": 0,
-  "roads": [],
+  "fetched_at": "2026-09-14T13:55:14.542089+00:00",
+  "count": 1,
+  "roads": [
+    {
+      "zona": "Canarias Las Palmas",
+      "carretera": "GC-130",
+      "pk_ini": "2.5",
+      "pk_fin": "25.9",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Hoya del Gamonal - Lomo del Cementerio",
+      "nivel": "NEGRO"
+    }
+  ],
   "unparsed_lines": []
 }
