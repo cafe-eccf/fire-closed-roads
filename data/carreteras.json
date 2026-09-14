@@ -1,15 +1,24 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-14T13:55:14.542089+00:00",
-  "count": 1,
+  "fetched_at": "2026-09-14T19:16:51.788071+00:00",
+  "count": 2,
   "roads": [
     {
       "zona": "Canarias Las Palmas",
       "carretera": "GC-130",
       "pk_ini": "2.5",
-      "pk_fin": "25.9",
+      "pk_fin": "17.0",
       "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Hoya del Gamonal - Lomo del Cementerio",
+      "localizacion": ". AMBOS SENTIDOS Hoya del Gamonal - La Breña",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Cataluña Girona",
+      "carretera": "GI-562",
+      "pk_ini": "0.0",
+      "pk_fin": "2.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Maçanet de la Selva",
       "nivel": "NEGRO"
     }
   ],
