@@ -1,7 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-14T23:05:10.258787+00:00",
-  "count": 2,
+  "fetched_at": "2026-09-15T04:45:45.422281+00:00",
+  "count": 1,
   "roads": [
     {
       "zona": "Canarias Las Palmas",
@@ -10,15 +10,6 @@
       "pk_fin": "17.0",
       "sentido": "DESCONOCIDO",
       "localizacion": ". AMBOS SENTIDOS Hoya del Gamonal - La Breña",
-      "nivel": "NEGRO"
-    },
-    {
-      "zona": "Cataluña Girona",
-      "carretera": "GI-562",
-      "pk_ini": "0.0",
-      "pk_fin": "2.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Maçanet de la Selva",
       "nivel": "NEGRO"
     }
   ],
