@@ -1,7 +1,35 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-15T14:55:09.926125+00:00",
-  "count": 0,
-  "roads": [],
+  "fetched_at": "2026-09-15T18:54:40.981552+00:00",
+  "count": 3,
+  "roads": [
+    {
+      "zona": "Andalucía Huelva",
+      "carretera": "HU-7401",
+      "pk_ini": "0.0",
+      "pk_fin": "4.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Santa Bárbara de Casa AMBOS",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Aragón Huesca",
+      "carretera": "A-140",
+      "pk_ini": "4.67",
+      "pk_fin": "1.6",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Albelda",
+      "nivel": "NEGRO"
+    },
+    {
+      "zona": "Comunitat Valenciana València/Valencia",
+      "carretera": "CV-390",
+      "pk_ini": "2.0",
+      "pk_fin": "16.0",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Tuéjar - Benagéber",
+      "nivel": "NEGRO"
+    }
+  ],
   "unparsed_lines": []
 }
