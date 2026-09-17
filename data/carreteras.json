@@ -1,17 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-17T06:03:43.834044+00:00",
-  "count": 1,
-  "roads": [
-    {
-      "zona": "Comunitat Valenciana València/Valencia",
-      "carretera": "CV-390",
-      "pk_ini": "2.0",
-      "pk_fin": "16.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Tuéjar - Benagéber",
-      "nivel": "NEGRO"
-    }
-  ],
+  "fetched_at": "2026-09-17T11:35:20.664661+00:00",
+  "count": 0,
+  "roads": [],
   "unparsed_lines": []
 }
