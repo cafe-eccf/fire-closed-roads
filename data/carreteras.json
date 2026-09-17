@@ -1,24 +1,15 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-16T22:04:39.888766+00:00",
-  "count": 2,
+  "fetched_at": "2026-09-17T00:27:25.137671+00:00",
+  "count": 1,
   "roads": [
-    {
-      "zona": "Andalucía Huelva",
-      "carretera": "A-495",
-      "pk_ini": "18.0",
-      "pk_fin": "26.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS San Bartolomé de la Torre - Alosno",
-      "nivel": "NEGRO"
-    },
     {
       "zona": "Comunitat Valenciana València/Valencia",
       "carretera": "CV-390",
       "pk_ini": "2.0",
       "pk_fin": "16.0",
-      "sentido": "AMBOS SENTIDOS",
-      "localizacion": "Tuéjar - Benagéber",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Tuéjar - Benagéber",
       "nivel": "NEGRO"
     }
   ],
