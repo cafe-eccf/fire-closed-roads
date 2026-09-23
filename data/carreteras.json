@@ -1,17 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-23T11:25:45.091048+00:00",
-  "count": 1,
-  "roads": [
-    {
-      "zona": "Andalucía Cádiz",
-      "carretera": "CA-4107",
-      "pk_ini": "8.0",
-      "pk_fin": "8.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Los Isletes",
-      "nivel": "NEGRO"
-    }
-  ],
+  "fetched_at": "2026-09-23T16:49:03.182256+00:00",
+  "count": 0,
+  "roads": [],
   "unparsed_lines": []
 }
