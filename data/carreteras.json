@@ -1,7 +1,17 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-26T23:34:21.902843+00:00",
-  "count": 0,
-  "roads": [],
+  "fetched_at": "2026-09-27T05:10:54.253773+00:00",
+  "count": 1,
+  "roads": [
+    {
+      "zona": "Andalucía Málaga",
+      "carretera": "MA-7304",
+      "pk_ini": "0.0",
+      "pk_fin": "7.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Parauta - Igualeja",
+      "nivel": "NEGRO"
+    }
+  ],
   "unparsed_lines": []
 }
