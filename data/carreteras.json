@@ -1,15 +1,24 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-27T05:10:54.253773+00:00",
-  "count": 1,
+  "fetched_at": "2026-09-27T11:55:38.297063+00:00",
+  "count": 2,
   "roads": [
+    {
+      "zona": "Andalucía Málaga",
+      "carretera": "A-397",
+      "pk_ini": "11.5",
+      "pk_fin": "38.0",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Parauta - Benahavís",
+      "nivel": "NEGRO"
+    },
     {
       "zona": "Andalucía Málaga",
       "carretera": "MA-7304",
       "pk_ini": "0.0",
       "pk_fin": "7.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Parauta - Igualeja",
+      "sentido": "AMBOS SENTIDOS",
+      "localizacion": "Parauta - Igualeja",
       "nivel": "NEGRO"
     }
   ],
