@@ -1,17 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-09-28T01:34:32.381487+00:00",
-  "count": 1,
-  "roads": [
-    {
-      "zona": "Andalucía Málaga",
-      "carretera": "A-397",
-      "pk_ini": "12.1",
-      "pk_fin": "38.0",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Parauta - Benahavís",
-      "nivel": "NEGRO"
-    }
-  ],
+  "fetched_at": "2026-09-28T08:37:36.337434+00:00",
+  "count": 0,
+  "roads": [],
   "unparsed_lines": []
 }
