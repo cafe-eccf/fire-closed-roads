@@ -1,7 +1,17 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-11-08T07:12:33.249097+00:00",
-  "count": 0,
-  "roads": [],
+  "fetched_at": "2026-11-08T15:02:59.674077+00:00",
+  "count": 1,
+  "roads": [
+    {
+      "zona": "Extremadura Cáceres",
+      "carretera": "CC-101",
+      "pk_ini": "2.5",
+      "pk_fin": "11.8",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". AMBOS SENTIDOS Valverde del Fresno SALAMANCA",
+      "nivel": "NEGRO"
+    }
+  ],
   "unparsed_lines": []
 }
