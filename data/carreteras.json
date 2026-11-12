@@ -1,7 +1,17 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-11-12T02:52:32.454627+00:00",
-  "count": 0,
-  "roads": [],
+  "fetched_at": "2026-11-12T10:55:06.996664+00:00",
+  "count": 1,
+  "roads": [
+    {
+      "zona": "Madrid - Toledo",
+      "carretera": "M-307",
+      "pk_ini": "8.3",
+      "pk_fin": "15.65",
+      "sentido": "DESCONOCIDO",
+      "localizacion": ". Madrid, Comunidad de - CRECIENTE DE LA El Lavadero - La Estación AMBNOS SENTIDOS",
+      "nivel": "NO APLICA"
+    }
+  ],
   "unparsed_lines": []
 }
