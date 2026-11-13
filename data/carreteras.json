@@ -1,17 +1,7 @@
 {
   "source_url": "https://www.dgt.es/estaticos/movilidad/CarreterasCortadasIncendios.pdf",
-  "fetched_at": "2026-11-12T18:50:07.969330+00:00",
-  "count": 1,
-  "roads": [
-    {
-      "zona": "Andalucía Sevilla",
-      "carretera": "A-472",
-      "pk_ini": "14.0",
-      "pk_fin": "12.5",
-      "sentido": "DESCONOCIDO",
-      "localizacion": ". AMBOS SENTIDOS Huerto Esquivel - Castilleja del Campo",
-      "nivel": "NEGRO"
-    }
-  ],
+  "fetched_at": "2026-11-13T00:11:04.638558+00:00",
+  "count": 0,
+  "roads": [],
   "unparsed_lines": []
 }
